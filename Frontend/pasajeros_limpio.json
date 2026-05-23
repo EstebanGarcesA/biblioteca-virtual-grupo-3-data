@@ -1,0 +1,3257 @@
+[
+    {
+        "periodo;indice;valor": "201101;metro_linea_a;9939136"
+    },
+    {
+        "periodo;indice;valor": "201101;metro_linea_b;1706614"
+    },
+    {
+        "periodo;indice;valor": "201101;metro_linea_k;529086"
+    },
+    {
+        "periodo;indice;valor": "201101;metro_linea_j;227784"
+    },
+    {
+        "periodo;indice;valor": "201101;metro_linea_l;109644"
+    },
+    {
+        "periodo;indice;valor": "201101;metro_linea_1_buses;0"
+    },
+    {
+        "periodo;indice;valor": "201201;metro_linea_a;10856228"
+    },
+    {
+        "periodo;indice;valor": "201201;metro_linea_b;1845668"
+    },
+    {
+        "periodo;indice;valor": "201201;metro_linea_k;565919"
+    },
+    {
+        "periodo;indice;valor": "201201;metro_linea_j;258750"
+    },
+    {
+        "periodo;indice;valor": "201201;metro_linea_l;132501"
+    },
+    {
+        "periodo;indice;valor": "201201;metro_linea_1_buses;583708"
+    },
+    {
+        "periodo;indice;valor": "201301;metro_linea_a;11089068"
+    },
+    {
+        "periodo;indice;valor": "201301;metro_linea_b;1868187"
+    },
+    {
+        "periodo;indice;valor": "201301;metro_linea_k;559307"
+    },
+    {
+        "periodo;indice;valor": "201301;metro_linea_j;282826"
+    },
+    {
+        "periodo;indice;valor": "201301;metro_linea_l;111860"
+    },
+    {
+        "periodo;indice;valor": "201301;metro_linea_1_buses;922144"
+    },
+    {
+        "periodo;indice;valor": "201301;metro_linea_2_buses;0"
+    },
+    {
+        "periodo;indice;valor": "201301;metro_cuenca_3;0"
+    },
+    {
+        "periodo;indice;valor": "201301;metro_cuenca_6;0"
+    },
+    {
+        "periodo;indice;valor": "201401;metro_linea_a;11004939"
+    },
+    {
+        "periodo;indice;valor": "201401;metro_linea_b;1933935"
+    },
+    {
+        "periodo;indice;valor": "201401;metro_linea_k;587108"
+    },
+    {
+        "periodo;indice;valor": "201401;metro_linea_j;345444"
+    },
+    {
+        "periodo;indice;valor": "201401;metro_linea_l;95939"
+    },
+    {
+        "periodo;indice;valor": "201401;metro_linea_1_buses;1522406"
+    },
+    {
+        "periodo;indice;valor": "201401;metro_linea_2_buses;297319"
+    },
+    {
+        "periodo;indice;valor": "201401;metro_cuenca_3;316701"
+    },
+    {
+        "periodo;indice;valor": "201401;metro_cuenca_6;351219"
+    },
+    {
+        "periodo;indice;valor": "201501;metro_linea_a;12680744"
+    },
+    {
+        "periodo;indice;valor": "201501;metro_linea_b;2099776"
+    },
+    {
+        "periodo;indice;valor": "201501;metro_linea_k;612375"
+    },
+    {
+        "periodo;indice;valor": "201501;metro_linea_j;364924"
+    },
+    {
+        "periodo;indice;valor": "201501;metro_linea_l;118857"
+    },
+    {
+        "periodo;indice;valor": "201501;metro_linea_1_buses;1594309"
+    },
+    {
+        "periodo;indice;valor": "201501;metro_linea_2_buses;309668"
+    },
+    {
+        "periodo;indice;valor": "201501;metro_cuenca_3;419735"
+    },
+    {
+        "periodo;indice;valor": "201501;metro_cuenca_6;797228"
+    },
+    {
+        "periodo;indice;valor": "201601;metro_linea_a;13219958"
+    },
+    {
+        "periodo;indice;valor": "201601;metro_linea_b;2175365"
+    },
+    {
+        "periodo;indice;valor": "201601;metro_linea_k;622499"
+    },
+    {
+        "periodo;indice;valor": "201601;metro_linea_j;373947"
+    },
+    {
+        "periodo;indice;valor": "201601;metro_linea_l;134233"
+    },
+    {
+        "periodo;indice;valor": "201601;metro_linea_1_buses;1611116"
+    },
+    {
+        "periodo;indice;valor": "201601;metro_linea_2_buses;292859"
+    },
+    {
+        "periodo;indice;valor": "201601;metro_cuenca_3;454014"
+    },
+    {
+        "periodo;indice;valor": "201601;metro_cuenca_6;873973"
+    },
+    {
+        "periodo;indice;valor": "201601;metro_cuenca_7_integrados;47442"
+    },
+    {
+        "periodo;indice;valor": "201601;metro_cuenca_5_integrados;0"
+    },
+    {
+        "periodo;indice;valor": "201601;metro_tranvia;0"
+    },
+    {
+        "periodo;indice;valor": "201601;metro_linea_h;0"
+    },
+    {
+        "periodo;indice;valor": "201701;metro_linea_a;13569290"
+    },
+    {
+        "periodo;indice;valor": "201701;metro_linea_b;2318271"
+    },
+    {
+        "periodo;indice;valor": "201701;metro_linea_k;650615"
+    },
+    {
+        "periodo;indice;valor": "201701;metro_linea_j;404560"
+    },
+    {
+        "periodo;indice;valor": "201701;metro_linea_l;136987"
+    },
+    {
+        "periodo;indice;valor": "201701;metro_linea_1_buses;1790749"
+    },
+    {
+        "periodo;indice;valor": "201701;metro_linea_2_buses;307244"
+    },
+    {
+        "periodo;indice;valor": "201701;metro_cuenca_3;514763"
+    },
+    {
+        "periodo;indice;valor": "201701;metro_cuenca_6;928880"
+    },
+    {
+        "periodo;indice;valor": "201701;metro_cuenca_7_integrados;346994"
+    },
+    {
+        "periodo;indice;valor": "201701;metro_cuenca_5_integrados;322651"
+    },
+    {
+        "periodo;indice;valor": "201701;metro_tranvia;494617"
+    },
+    {
+        "periodo;indice;valor": "201701;metro_linea_h;46440"
+    },
+    {
+        "periodo;indice;valor": "201102;metro_linea_a;10412839"
+    },
+    {
+        "periodo;indice;valor": "201102;metro_linea_b;1819092"
+    },
+    {
+        "periodo;indice;valor": "201102;metro_linea_k;487609"
+    },
+    {
+        "periodo;indice;valor": "201102;metro_linea_j;220832"
+    },
+    {
+        "periodo;indice;valor": "201102;metro_linea_l;64910"
+    },
+    {
+        "periodo;indice;valor": "201102;metro_linea_1_buses;0"
+    },
+    {
+        "periodo;indice;valor": "201202;metro_linea_a;11036302"
+    },
+    {
+        "periodo;indice;valor": "201202;metro_linea_b;1965248"
+    },
+    {
+        "periodo;indice;valor": "201202;metro_linea_k;516502"
+    },
+    {
+        "periodo;indice;valor": "201202;metro_linea_j;263135"
+    },
+    {
+        "periodo;indice;valor": "201202;metro_linea_l;63052"
+    },
+    {
+        "periodo;indice;valor": "201202;metro_linea_1_buses;693971"
+    },
+    {
+        "periodo;indice;valor": "201302;metro_linea_a;11293626"
+    },
+    {
+        "periodo;indice;valor": "201302;metro_linea_b;1941982"
+    },
+    {
+        "periodo;indice;valor": "201302;metro_linea_k;498808"
+    },
+    {
+        "periodo;indice;valor": "201302;metro_linea_j;278007"
+    },
+    {
+        "periodo;indice;valor": "201302;metro_linea_l;42954"
+    },
+    {
+        "periodo;indice;valor": "201302;metro_linea_1_buses;1038173"
+    },
+    {
+        "periodo;indice;valor": "201302;metro_linea_2_buses;0"
+    },
+    {
+        "periodo;indice;valor": "201302;metro_cuenca_3;0"
+    },
+    {
+        "periodo;indice;valor": "201302;metro_cuenca_6;0"
+    },
+    {
+        "periodo;indice;valor": "201402;metro_linea_a;12101453"
+    },
+    {
+        "periodo;indice;valor": "201402;metro_linea_b;2118215"
+    },
+    {
+        "periodo;indice;valor": "201402;metro_linea_k;538230"
+    },
+    {
+        "periodo;indice;valor": "201402;metro_linea_j;341398"
+    },
+    {
+        "periodo;indice;valor": "201402;metro_linea_l;50337"
+    },
+    {
+        "periodo;indice;valor": "201402;metro_linea_1_buses;1697048"
+    },
+    {
+        "periodo;indice;valor": "201402;metro_linea_2_buses;333310"
+    },
+    {
+        "periodo;indice;valor": "201402;metro_cuenca_3;432021"
+    },
+    {
+        "periodo;indice;valor": "201402;metro_cuenca_6;603484"
+    },
+    {
+        "periodo;indice;valor": "201502;metro_linea_a;13274427"
+    },
+    {
+        "periodo;indice;valor": "201502;metro_linea_b;2270327"
+    },
+    {
+        "periodo;indice;valor": "201502;metro_linea_k;560164"
+    },
+    {
+        "periodo;indice;valor": "201502;metro_linea_j;357187"
+    },
+    {
+        "periodo;indice;valor": "201502;metro_linea_l;50941"
+    },
+    {
+        "periodo;indice;valor": "201502;metro_linea_1_buses;1789746"
+    },
+    {
+        "periodo;indice;valor": "201502;metro_linea_2_buses;338705"
+    },
+    {
+        "periodo;indice;valor": "201502;metro_cuenca_3;459497"
+    },
+    {
+        "periodo;indice;valor": "201502;metro_cuenca_6;859296"
+    },
+    {
+        "periodo;indice;valor": "201602;metro_linea_a;14322955"
+    },
+    {
+        "periodo;indice;valor": "201602;metro_linea_b;2471380"
+    },
+    {
+        "periodo;indice;valor": "201602;metro_linea_k;589059"
+    },
+    {
+        "periodo;indice;valor": "201602;metro_linea_j;391716"
+    },
+    {
+        "periodo;indice;valor": "201602;metro_linea_l;63534"
+    },
+    {
+        "periodo;indice;valor": "201602;metro_linea_1_buses;1921758"
+    },
+    {
+        "periodo;indice;valor": "201602;metro_linea_2_buses;334647"
+    },
+    {
+        "periodo;indice;valor": "201602;metro_cuenca_3;537662"
+    },
+    {
+        "periodo;indice;valor": "201602;metro_cuenca_6;1010469"
+    },
+    {
+        "periodo;indice;valor": "201602;metro_cuenca_7_integrados;361938"
+    },
+    {
+        "periodo;indice;valor": "201602;metro_cuenca_5_integrados;0"
+    },
+    {
+        "periodo;indice;valor": "201602;metro_tranvia;0"
+    },
+    {
+        "periodo;indice;valor": "201602;metro_linea_h;0"
+    },
+    {
+        "periodo;indice;valor": "201702;metro_linea_a;14024137"
+    },
+    {
+        "periodo;indice;valor": "201702;metro_linea_b;2471705"
+    },
+    {
+        "periodo;indice;valor": "201702;metro_linea_k;596335"
+    },
+    {
+        "periodo;indice;valor": "201702;metro_linea_j;395913"
+    },
+    {
+        "periodo;indice;valor": "201702;metro_linea_l;69299"
+    },
+    {
+        "periodo;indice;valor": "201702;metro_linea_1_buses;1986739"
+    },
+    {
+        "periodo;indice;valor": "201702;metro_linea_2_buses;330672"
+    },
+    {
+        "periodo;indice;valor": "201702;metro_cuenca_3;556025"
+    },
+    {
+        "periodo;indice;valor": "201702;metro_cuenca_6;971089"
+    },
+    {
+        "periodo;indice;valor": "201702;metro_cuenca_7_integrados;374338"
+    },
+    {
+        "periodo;indice;valor": "201702;metro_cuenca_5_integrados;392490"
+    },
+    {
+        "periodo;indice;valor": "201702;metro_tranvia;512615"
+    },
+    {
+        "periodo;indice;valor": "201702;metro_linea_h;48114"
+    },
+    {
+        "periodo;indice;valor": "201103;metro_linea_a;11617733"
+    },
+    {
+        "periodo;indice;valor": "201103;metro_linea_b;2025996"
+    },
+    {
+        "periodo;indice;valor": "201103;metro_linea_k;455580"
+    },
+    {
+        "periodo;indice;valor": "201103;metro_linea_j;241408"
+    },
+    {
+        "periodo;indice;valor": "201103;metro_linea_l;57662"
+    },
+    {
+        "periodo;indice;valor": "201103;metro_linea_1_buses;0"
+    },
+    {
+        "periodo;indice;valor": "201203;metro_linea_a;11644122"
+    },
+    {
+        "periodo;indice;valor": "201203;metro_linea_b;2074265"
+    },
+    {
+        "periodo;indice;valor": "201203;metro_linea_k;545087"
+    },
+    {
+        "periodo;indice;valor": "201203;metro_linea_j;262493"
+    },
+    {
+        "periodo;indice;valor": "201203;metro_linea_l;64395"
+    },
+    {
+        "periodo;indice;valor": "201203;metro_linea_1_buses;769733"
+    },
+    {
+        "periodo;indice;valor": "201303;metro_linea_a;11365510"
+    },
+    {
+        "periodo;indice;valor": "201303;metro_linea_b;1968200"
+    },
+    {
+        "periodo;indice;valor": "201303;metro_linea_k;535199"
+    },
+    {
+        "periodo;indice;valor": "201303;metro_linea_j;218378"
+    },
+    {
+        "periodo;indice;valor": "201303;metro_linea_l;82736"
+    },
+    {
+        "periodo;indice;valor": "201303;metro_linea_1_buses;1042564"
+    },
+    {
+        "periodo;indice;valor": "201303;metro_linea_2_buses;0"
+    },
+    {
+        "periodo;indice;valor": "201303;metro_cuenca_3;0"
+    },
+    {
+        "periodo;indice;valor": "201303;metro_cuenca_6;0"
+    },
+    {
+        "periodo;indice;valor": "201403;metro_linea_a;12141808"
+    },
+    {
+        "periodo;indice;valor": "201403;metro_linea_b;2264728"
+    },
+    {
+        "periodo;indice;valor": "201403;metro_linea_k;595987"
+    },
+    {
+        "periodo;indice;valor": "201403;metro_linea_j;378298"
+    },
+    {
+        "periodo;indice;valor": "201403;metro_linea_l;56803"
+    },
+    {
+        "periodo;indice;valor": "201403;metro_linea_1_buses;1841105"
+    },
+    {
+        "periodo;indice;valor": "201403;metro_linea_2_buses;397760"
+    },
+    {
+        "periodo;indice;valor": "201403;metro_cuenca_3;479384"
+    },
+    {
+        "periodo;indice;valor": "201403;metro_cuenca_6;777221"
+    },
+    {
+        "periodo;indice;valor": "201503;metro_linea_a;14252048"
+    },
+    {
+        "periodo;indice;valor": "201503;metro_linea_b;2441014"
+    },
+    {
+        "periodo;indice;valor": "201503;metro_linea_k;611305"
+    },
+    {
+        "periodo;indice;valor": "201503;metro_linea_j;386881"
+    },
+    {
+        "periodo;indice;valor": "201503;metro_linea_l;65005"
+    },
+    {
+        "periodo;indice;valor": "201503;metro_linea_1_buses;1878140"
+    },
+    {
+        "periodo;indice;valor": "201503;metro_linea_2_buses;356399"
+    },
+    {
+        "periodo;indice;valor": "201503;metro_cuenca_3;489773"
+    },
+    {
+        "periodo;indice;valor": "201503;metro_cuenca_6;916217"
+    },
+    {
+        "periodo;indice;valor": "201603;metro_linea_a;14118124"
+    },
+    {
+        "periodo;indice;valor": "201603;metro_linea_b;2439102"
+    },
+    {
+        "periodo;indice;valor": "201603;metro_linea_k;612385"
+    },
+    {
+        "periodo;indice;valor": "201603;metro_linea_j;390073"
+    },
+    {
+        "periodo;indice;valor": "201603;metro_linea_l;93681"
+    },
+    {
+        "periodo;indice;valor": "201603;metro_linea_1_buses;1865614"
+    },
+    {
+        "periodo;indice;valor": "201603;metro_linea_2_buses;325237"
+    },
+    {
+        "periodo;indice;valor": "201603;metro_cuenca_3;530246"
+    },
+    {
+        "periodo;indice;valor": "201603;metro_cuenca_6;1005938"
+    },
+    {
+        "periodo;indice;valor": "201603;metro_cuenca_7_integrados;362126"
+    },
+    {
+        "periodo;indice;valor": "201603;metro_cuenca_5_integrados;0"
+    },
+    {
+        "periodo;indice;valor": "201603;metro_tranvia;8829"
+    },
+    {
+        "periodo;indice;valor": "201603;metro_linea_h;0"
+    },
+    {
+        "periodo;indice;valor": "201702;metro_cuenca_9_integrados;3626"
+    },
+    {
+        "periodo;indice;valor": "201703;metro_linea_a;15612156"
+    },
+    {
+        "periodo;indice;valor": "201703;metro_linea_b;2789789"
+    },
+    {
+        "periodo;indice;valor": "201703;metro_linea_k;644832"
+    },
+    {
+        "periodo;indice;valor": "201703;metro_linea_j;438403"
+    },
+    {
+        "periodo;indice;valor": "201703;metro_linea_l;64399"
+    },
+    {
+        "periodo;indice;valor": "201703;metro_linea_1_buses;2206436"
+    },
+    {
+        "periodo;indice;valor": "201703;metro_linea_2_buses;364736"
+    },
+    {
+        "periodo;indice;valor": "201703;metro_cuenca_3;628027"
+    },
+    {
+        "periodo;indice;valor": "201703;metro_cuenca_6;1086153"
+    },
+    {
+        "periodo;indice;valor": "201703;metro_cuenca_7_integrados;421567"
+    },
+    {
+        "periodo;indice;valor": "201703;metro_cuenca_5_integrados;443032"
+    },
+    {
+        "periodo;indice;valor": "201703;metro_tranvia;585961"
+    },
+    {
+        "periodo;indice;valor": "201703;metro_linea_h;55608"
+    },
+    {
+        "periodo;indice;valor": "201104;metro_linea_a;10556834"
+    },
+    {
+        "periodo;indice;valor": "201104;metro_linea_b;1838067"
+    },
+    {
+        "periodo;indice;valor": "201104;metro_linea_k;293890"
+    },
+    {
+        "periodo;indice;valor": "201104;metro_linea_j;156812"
+    },
+    {
+        "periodo;indice;valor": "201104;metro_linea_l;58525"
+    },
+    {
+        "periodo;indice;valor": "201104;metro_linea_1_buses;0"
+    },
+    {
+        "periodo;indice;valor": "201204;metro_linea_a;10463017"
+    },
+    {
+        "periodo;indice;valor": "201204;metro_linea_b;1855716"
+    },
+    {
+        "periodo;indice;valor": "201204;metro_linea_k;301056"
+    },
+    {
+        "periodo;indice;valor": "201204;metro_linea_j;189889"
+    },
+    {
+        "periodo;indice;valor": "201204;metro_linea_l;57841"
+    },
+    {
+        "periodo;indice;valor": "201204;metro_linea_1_buses;730833"
+    },
+    {
+        "periodo;indice;valor": "201304;metro_linea_a;12444683"
+    },
+    {
+        "periodo;indice;valor": "201304;metro_linea_b;2125663"
+    },
+    {
+        "periodo;indice;valor": "201304;metro_linea_k;347071"
+    },
+    {
+        "periodo;indice;valor": "201304;metro_linea_j;301541"
+    },
+    {
+        "periodo;indice;valor": "201304;metro_linea_l;31956"
+    },
+    {
+        "periodo;indice;valor": "201304;metro_linea_1_buses;1214188"
+    },
+    {
+        "periodo;indice;valor": "201304;metro_linea_2_buses;18878"
+    },
+    {
+        "periodo;indice;valor": "201304;metro_cuenca_3;0"
+    },
+    {
+        "periodo;indice;valor": "201304;metro_cuenca_6;0"
+    },
+    {
+        "periodo;indice;valor": "201404;metro_linea_a;12189994"
+    },
+    {
+        "periodo;indice;valor": "201404;metro_linea_b;2136594"
+    },
+    {
+        "periodo;indice;valor": "201404;metro_linea_k;564910"
+    },
+    {
+        "periodo;indice;valor": "201404;metro_linea_j;353396"
+    },
+    {
+        "periodo;indice;valor": "201404;metro_linea_l;74616"
+    },
+    {
+        "periodo;indice;valor": "201404;metro_linea_1_buses;1689960"
+    },
+    {
+        "periodo;indice;valor": "201404;metro_linea_2_buses;349969"
+    },
+    {
+        "periodo;indice;valor": "201404;metro_cuenca_3;434928"
+    },
+    {
+        "periodo;indice;valor": "201404;metro_cuenca_6;763922"
+    },
+    {
+        "periodo;indice;valor": "201504;metro_linea_a;13848320"
+    },
+    {
+        "periodo;indice;valor": "201504;metro_linea_b;2379834"
+    },
+    {
+        "periodo;indice;valor": "201504;metro_linea_k;580095"
+    },
+    {
+        "periodo;indice;valor": "201504;metro_linea_j;371154"
+    },
+    {
+        "periodo;indice;valor": "201504;metro_linea_l;63286"
+    },
+    {
+        "periodo;indice;valor": "201504;metro_linea_1_buses;1816887"
+    },
+    {
+        "periodo;indice;valor": "201504;metro_linea_2_buses;332086"
+    },
+    {
+        "periodo;indice;valor": "201504;metro_cuenca_3;471303"
+    },
+    {
+        "periodo;indice;valor": "201504;metro_cuenca_6;885061"
+    },
+    {
+        "periodo;indice;valor": "201604;metro_linea_a;14053004"
+    },
+    {
+        "periodo;indice;valor": "201604;metro_linea_b;2443754"
+    },
+    {
+        "periodo;indice;valor": "201604;metro_linea_k;576172"
+    },
+    {
+        "periodo;indice;valor": "201604;metro_linea_j;388801"
+    },
+    {
+        "periodo;indice;valor": "201604;metro_linea_l;57117"
+    },
+    {
+        "periodo;indice;valor": "201604;metro_linea_1_buses;2057234"
+    },
+    {
+        "periodo;indice;valor": "201604;metro_linea_2_buses;342476"
+    },
+    {
+        "periodo;indice;valor": "201604;metro_cuenca_3;554154"
+    },
+    {
+        "periodo;indice;valor": "201604;metro_cuenca_6;1096954"
+    },
+    {
+        "periodo;indice;valor": "201604;metro_cuenca_7_integrados;368374"
+    },
+    {
+        "periodo;indice;valor": "201604;metro_cuenca_5_integrados;0"
+    },
+    {
+        "periodo;indice;valor": "201604;metro_tranvia;260741"
+    },
+    {
+        "periodo;indice;valor": "201604;metro_linea_h;0"
+    },
+    {
+        "periodo;indice;valor": "201703;metro_cuenca_9_integrados;135997"
+    },
+    {
+        "periodo;indice;valor": "201704;metro_linea_a;13629656"
+    },
+    {
+        "periodo;indice;valor": "201704;metro_linea_b;2438616"
+    },
+    {
+        "periodo;indice;valor": "201704;metro_linea_k;603523"
+    },
+    {
+        "periodo;indice;valor": "201704;metro_linea_j;402992"
+    },
+    {
+        "periodo;indice;valor": "201704;metro_linea_l;88273"
+    },
+    {
+        "periodo;indice;valor": "201704;metro_linea_1_buses;1890173"
+    },
+    {
+        "periodo;indice;valor": "201704;metro_linea_2_buses;308637"
+    },
+    {
+        "periodo;indice;valor": "201704;metro_cuenca_3;547506"
+    },
+    {
+        "periodo;indice;valor": "201704;metro_cuenca_6;956458"
+    },
+    {
+        "periodo;indice;valor": "201704;metro_cuenca_7_integrados;359731"
+    },
+    {
+        "periodo;indice;valor": "201704;metro_cuenca_5_integrados;361635"
+    },
+    {
+        "periodo;indice;valor": "201704;metro_tranvia;538026"
+    },
+    {
+        "periodo;indice;valor": "201704;metro_linea_h;50716"
+    },
+    {
+        "periodo;indice;valor": "201105;metro_linea_a;11610943"
+    },
+    {
+        "periodo;indice;valor": "201105;metro_linea_b;2037374"
+    },
+    {
+        "periodo;indice;valor": "201105;metro_linea_k;525054"
+    },
+    {
+        "periodo;indice;valor": "201105;metro_linea_j;240581"
+    },
+    {
+        "periodo;indice;valor": "201105;metro_linea_l;62068"
+    },
+    {
+        "periodo;indice;valor": "201105;metro_linea_1_buses;0"
+    },
+    {
+        "periodo;indice;valor": "201205;metro_linea_a;11575305"
+    },
+    {
+        "periodo;indice;valor": "201205;metro_linea_b;2064861"
+    },
+    {
+        "periodo;indice;valor": "201205;metro_linea_k;520852"
+    },
+    {
+        "periodo;indice;valor": "201205;metro_linea_j;185870"
+    },
+    {
+        "periodo;indice;valor": "201205;metro_linea_l;57399"
+    },
+    {
+        "periodo;indice;valor": "201205;metro_linea_1_buses;835772"
+    },
+    {
+        "periodo;indice;valor": "201305;metro_linea_a;12438537"
+    },
+    {
+        "periodo;indice;valor": "201305;metro_linea_b;2148391"
+    },
+    {
+        "periodo;indice;valor": "201305;metro_linea_k;549039"
+    },
+    {
+        "periodo;indice;valor": "201305;metro_linea_j;312079"
+    },
+    {
+        "periodo;indice;valor": "201305;metro_linea_l;54575"
+    },
+    {
+        "periodo;indice;valor": "201305;metro_linea_1_buses;1324964"
+    },
+    {
+        "periodo;indice;valor": "201305;metro_linea_2_buses;112898"
+    },
+    {
+        "periodo;indice;valor": "201305;metro_cuenca_3;0"
+    },
+    {
+        "periodo;indice;valor": "201305;metro_cuenca_6;0"
+    },
+    {
+        "periodo;indice;valor": "201405;metro_linea_a;13301809"
+    },
+    {
+        "periodo;indice;valor": "201405;metro_linea_b;2308809"
+    },
+    {
+        "periodo;indice;valor": "201405;metro_linea_k;587954"
+    },
+    {
+        "periodo;indice;valor": "201405;metro_linea_j;375397"
+    },
+    {
+        "periodo;indice;valor": "201405;metro_linea_l;48108"
+    },
+    {
+        "periodo;indice;valor": "201405;metro_linea_1_buses;1843662"
+    },
+    {
+        "periodo;indice;valor": "201405;metro_linea_2_buses;376770"
+    },
+    {
+        "periodo;indice;valor": "201405;metro_cuenca_3;464532"
+    },
+    {
+        "periodo;indice;valor": "201405;metro_cuenca_6;824404"
+    },
+    {
+        "periodo;indice;valor": "201505;metro_linea_a;14201302"
+    },
+    {
+        "periodo;indice;valor": "201505;metro_linea_b;2435841"
+    },
+    {
+        "periodo;indice;valor": "201505;metro_linea_k;607246"
+    },
+    {
+        "periodo;indice;valor": "201505;metro_linea_j;394017"
+    },
+    {
+        "periodo;indice;valor": "201505;metro_linea_l;71681"
+    },
+    {
+        "periodo;indice;valor": "201505;metro_linea_1_buses;1879227"
+    },
+    {
+        "periodo;indice;valor": "201505;metro_linea_2_buses;331802"
+    },
+    {
+        "periodo;indice;valor": "201505;metro_cuenca_3;484266"
+    },
+    {
+        "periodo;indice;valor": "201505;metro_cuenca_6;916787"
+    },
+    {
+        "periodo;indice;valor": "201605;metro_linea_a;14727180"
+    },
+    {
+        "periodo;indice;valor": "201605;metro_linea_b;2556056"
+    },
+    {
+        "periodo;indice;valor": "201605;metro_linea_k;553311"
+    },
+    {
+        "periodo;indice;valor": "201605;metro_linea_j;409190"
+    },
+    {
+        "periodo;indice;valor": "201605;metro_linea_l;60007"
+    },
+    {
+        "periodo;indice;valor": "201605;metro_linea_1_buses;1933563"
+    },
+    {
+        "periodo;indice;valor": "201605;metro_linea_2_buses;327785"
+    },
+    {
+        "periodo;indice;valor": "201605;metro_cuenca_3;546524"
+    },
+    {
+        "periodo;indice;valor": "201605;metro_cuenca_6;1054035"
+    },
+    {
+        "periodo;indice;valor": "201605;metro_cuenca_7_integrados;374641"
+    },
+    {
+        "periodo;indice;valor": "201605;metro_cuenca_5_integrados;0"
+    },
+    {
+        "periodo;indice;valor": "201605;metro_tranvia;318439"
+    },
+    {
+        "periodo;indice;valor": "201605;metro_linea_h;0"
+    },
+    {
+        "periodo;indice;valor": "201704;metro_cuenca_9_integrados;115016"
+    },
+    {
+        "periodo;indice;valor": "201705;metro_linea_a;15019385"
+    },
+    {
+        "periodo;indice;valor": "201705;metro_linea_b;2691378"
+    },
+    {
+        "periodo;indice;valor": "201705;metro_linea_k;634131"
+    },
+    {
+        "periodo;indice;valor": "201705;metro_linea_j;443882"
+    },
+    {
+        "periodo;indice;valor": "201705;metro_linea_l;64428"
+    },
+    {
+        "periodo;indice;valor": "201705;metro_linea_1_buses;2076335"
+    },
+    {
+        "periodo;indice;valor": "201705;metro_linea_2_buses;328704"
+    },
+    {
+        "periodo;indice;valor": "201705;metro_cuenca_3;603701"
+    },
+    {
+        "periodo;indice;valor": "201705;metro_cuenca_6;1049286"
+    },
+    {
+        "periodo;indice;valor": "201705;metro_cuenca_7_integrados;401992"
+    },
+    {
+        "periodo;indice;valor": "201705;metro_cuenca_5_integrados;412375"
+    },
+    {
+        "periodo;indice;valor": "201705;metro_tranvia;586741"
+    },
+    {
+        "periodo;indice;valor": "201705;metro_linea_h;55940"
+    },
+    {
+        "periodo;indice;valor": "201106;metro_linea_a;10889341"
+    },
+    {
+        "periodo;indice;valor": "201106;metro_linea_b;1901605"
+    },
+    {
+        "periodo;indice;valor": "201106;metro_linea_k;531382"
+    },
+    {
+        "periodo;indice;valor": "201106;metro_linea_j;239021"
+    },
+    {
+        "periodo;indice;valor": "201106;metro_linea_l;114284"
+    },
+    {
+        "periodo;indice;valor": "201106;metro_linea_1_buses;0"
+    },
+    {
+        "periodo;indice;valor": "201206;metro_linea_a;11085433"
+    },
+    {
+        "periodo;indice;valor": "201206;metro_linea_b;1896190"
+    },
+    {
+        "periodo;indice;valor": "201206;metro_linea_k;534817"
+    },
+    {
+        "periodo;indice;valor": "201206;metro_linea_j;263926"
+    },
+    {
+        "periodo;indice;valor": "201206;metro_linea_l;100702"
+    },
+    {
+        "periodo;indice;valor": "201206;metro_linea_1_buses;782014"
+    },
+    {
+        "periodo;indice;valor": "201306;metro_linea_a;11793653"
+    },
+    {
+        "periodo;indice;valor": "201306;metro_linea_b;1990734"
+    },
+    {
+        "periodo;indice;valor": "201306;metro_linea_k;561938"
+    },
+    {
+        "periodo;indice;valor": "201306;metro_linea_j;307580"
+    },
+    {
+        "periodo;indice;valor": "201306;metro_linea_l;98370"
+    },
+    {
+        "periodo;indice;valor": "201306;metro_linea_1_buses;1217463"
+    },
+    {
+        "periodo;indice;valor": "201306;metro_linea_2_buses;118600"
+    },
+    {
+        "periodo;indice;valor": "201306;metro_cuenca_3;0"
+    },
+    {
+        "periodo;indice;valor": "201306;metro_cuenca_6;0"
+    },
+    {
+        "periodo;indice;valor": "201406;metro_linea_a;12029612"
+    },
+    {
+        "periodo;indice;valor": "201406;metro_linea_b;2026689"
+    },
+    {
+        "periodo;indice;valor": "201406;metro_linea_k;477690"
+    },
+    {
+        "periodo;indice;valor": "201406;metro_linea_j;317707"
+    },
+    {
+        "periodo;indice;valor": "201406;metro_linea_l;70783"
+    },
+    {
+        "periodo;indice;valor": "201406;metro_linea_1_buses;1600370"
+    },
+    {
+        "periodo;indice;valor": "201406;metro_linea_2_buses;328028"
+    },
+    {
+        "periodo;indice;valor": "201406;metro_cuenca_3;405643"
+    },
+    {
+        "periodo;indice;valor": "201406;metro_cuenca_6;736928"
+    },
+    {
+        "periodo;indice;valor": "201506;metro_linea_a;13705567"
+    },
+    {
+        "periodo;indice;valor": "201506;metro_linea_b;2263646"
+    },
+    {
+        "periodo;indice;valor": "201506;metro_linea_k;607976"
+    },
+    {
+        "periodo;indice;valor": "201506;metro_linea_j;388261"
+    },
+    {
+        "periodo;indice;valor": "201506;metro_linea_l;92863"
+    },
+    {
+        "periodo;indice;valor": "201506;metro_linea_1_buses;1728481"
+    },
+    {
+        "periodo;indice;valor": "201506;metro_linea_2_buses;309790"
+    },
+    {
+        "periodo;indice;valor": "201506;metro_cuenca_3;462444"
+    },
+    {
+        "periodo;indice;valor": "201506;metro_cuenca_6;857703"
+    },
+    {
+        "periodo;indice;valor": "201606;metro_linea_a;14478151"
+    },
+    {
+        "periodo;indice;valor": "201606;metro_linea_b;2490730"
+    },
+    {
+        "periodo;indice;valor": "201606;metro_linea_k;519581"
+    },
+    {
+        "periodo;indice;valor": "201606;metro_linea_j;263108"
+    },
+    {
+        "periodo;indice;valor": "201606;metro_linea_l;88120"
+    },
+    {
+        "periodo;indice;valor": "201606;metro_linea_1_buses;1822202"
+    },
+    {
+        "periodo;indice;valor": "201606;metro_linea_2_buses;320279"
+    },
+    {
+        "periodo;indice;valor": "201606;metro_cuenca_3;516141"
+    },
+    {
+        "periodo;indice;valor": "201606;metro_cuenca_6;1032966"
+    },
+    {
+        "periodo;indice;valor": "201606;metro_cuenca_7_integrados;361047"
+    },
+    {
+        "periodo;indice;valor": "201606;metro_cuenca_5_integrados;0"
+    },
+    {
+        "periodo;indice;valor": "201606;metro_tranvia;335764"
+    },
+    {
+        "periodo;indice;valor": "201606;metro_linea_h;0"
+    },
+    {
+        "periodo;indice;valor": "201705;metro_cuenca_9_integrados;126624"
+    },
+    {
+        "periodo;indice;valor": "201706;metro_linea_a;14026337"
+    },
+    {
+        "periodo;indice;valor": "201706;metro_linea_b;2473849"
+    },
+    {
+        "periodo;indice;valor": "201706;metro_linea_k;394217"
+    },
+    {
+        "periodo;indice;valor": "201706;metro_linea_j;409670"
+    },
+    {
+        "periodo;indice;valor": "201706;metro_linea_l;59560"
+    },
+    {
+        "periodo;indice;valor": "201706;metro_linea_1_buses;1864499"
+    },
+    {
+        "periodo;indice;valor": "201706;metro_linea_2_buses;312754"
+    },
+    {
+        "periodo;indice;valor": "201706;metro_cuenca_3;553843"
+    },
+    {
+        "periodo;indice;valor": "201706;metro_cuenca_6;1006398"
+    },
+    {
+        "periodo;indice;valor": "201706;metro_cuenca_7_integrados;369761"
+    },
+    {
+        "periodo;indice;valor": "201706;metro_cuenca_5_integrados;368403"
+    },
+    {
+        "periodo;indice;valor": "201706;metro_tranvia;550894"
+    },
+    {
+        "periodo;indice;valor": "201706;metro_linea_h;54393"
+    },
+    {
+        "periodo;indice;valor": "201107;metro_linea_a;11200417"
+    },
+    {
+        "periodo;indice;valor": "201107;metro_linea_b;1953089"
+    },
+    {
+        "periodo;indice;valor": "201107;metro_linea_k;544120"
+    },
+    {
+        "periodo;indice;valor": "201107;metro_linea_j;252894"
+    },
+    {
+        "periodo;indice;valor": "201107;metro_linea_l;105380"
+    },
+    {
+        "periodo;indice;valor": "201107;metro_linea_1_buses;0"
+    },
+    {
+        "periodo;indice;valor": "201207;metro_linea_a;11193306"
+    },
+    {
+        "periodo;indice;valor": "201207;metro_linea_b;1973758"
+    },
+    {
+        "periodo;indice;valor": "201207;metro_linea_k;545578"
+    },
+    {
+        "periodo;indice;valor": "201207;metro_linea_j;276841"
+    },
+    {
+        "periodo;indice;valor": "201207;metro_linea_l;89983"
+    },
+    {
+        "periodo;indice;valor": "201207;metro_linea_1_buses;825996"
+    },
+    {
+        "periodo;indice;valor": "201307;metro_linea_a;12719495"
+    },
+    {
+        "periodo;indice;valor": "201307;metro_linea_b;2152293"
+    },
+    {
+        "periodo;indice;valor": "201307;metro_linea_k;588815"
+    },
+    {
+        "periodo;indice;valor": "201307;metro_linea_j;326313"
+    },
+    {
+        "periodo;indice;valor": "201307;metro_linea_l;86406"
+    },
+    {
+        "periodo;indice;valor": "201307;metro_linea_1_buses;1351201"
+    },
+    {
+        "periodo;indice;valor": "201307;metro_linea_2_buses;102249"
+    },
+    {
+        "periodo;indice;valor": "201307;metro_cuenca_3;0"
+    },
+    {
+        "periodo;indice;valor": "201307;metro_cuenca_6;0"
+    },
+    {
+        "periodo;indice;valor": "201407;metro_linea_a;13596987"
+    },
+    {
+        "periodo;indice;valor": "201407;metro_linea_b;2297422"
+    },
+    {
+        "periodo;indice;valor": "201407;metro_linea_k;611185"
+    },
+    {
+        "periodo;indice;valor": "201407;metro_linea_j;386238"
+    },
+    {
+        "periodo;indice;valor": "201407;metro_linea_l;69405"
+    },
+    {
+        "periodo;indice;valor": "201407;metro_linea_1_buses;1806315"
+    },
+    {
+        "periodo;indice;valor": "201407;metro_linea_2_buses;377232"
+    },
+    {
+        "periodo;indice;valor": "201407;metro_cuenca_3;480761"
+    },
+    {
+        "periodo;indice;valor": "201407;metro_cuenca_6;844952"
+    },
+    {
+        "periodo;indice;valor": "201507;metro_linea_a;14898532"
+    },
+    {
+        "periodo;indice;valor": "201507;metro_linea_b;2522206"
+    },
+    {
+        "periodo;indice;valor": "201507;metro_linea_k;161556"
+    },
+    {
+        "periodo;indice;valor": "201507;metro_linea_j;190039"
+    },
+    {
+        "periodo;indice;valor": "201507;metro_linea_l;8832"
+    },
+    {
+        "periodo;indice;valor": "201507;metro_linea_1_buses;1909444"
+    },
+    {
+        "periodo;indice;valor": "201507;metro_linea_2_buses;345207"
+    },
+    {
+        "periodo;indice;valor": "201507;metro_cuenca_3;539714"
+    },
+    {
+        "periodo;indice;valor": "201507;metro_cuenca_6;977677"
+    },
+    {
+        "periodo;indice;valor": "201607;metro_linea_a;14333243"
+    },
+    {
+        "periodo;indice;valor": "201607;metro_linea_b;2479336"
+    },
+    {
+        "periodo;indice;valor": "201607;metro_linea_k;642948"
+    },
+    {
+        "periodo;indice;valor": "201607;metro_linea_j;404220"
+    },
+    {
+        "periodo;indice;valor": "201607;metro_linea_l;110596"
+    },
+    {
+        "periodo;indice;valor": "201607;metro_linea_1_buses;1825935"
+    },
+    {
+        "periodo;indice;valor": "201607;metro_linea_2_buses;316855"
+    },
+    {
+        "periodo;indice;valor": "201607;metro_cuenca_3;533254"
+    },
+    {
+        "periodo;indice;valor": "201607;metro_cuenca_6;1015339"
+    },
+    {
+        "periodo;indice;valor": "201607;metro_cuenca_7_integrados;351112"
+    },
+    {
+        "periodo;indice;valor": "201607;metro_cuenca_5_integrados;0"
+    },
+    {
+        "periodo;indice;valor": "201607;metro_tranvia;375954"
+    },
+    {
+        "periodo;indice;valor": "201607;metro_linea_h;0"
+    },
+    {
+        "periodo;indice;valor": "201706;metro_cuenca_9_integrados;113814"
+    },
+    {
+        "periodo;indice;valor": "201707;metro_linea_a;14278459"
+    },
+    {
+        "periodo;indice;valor": "201707;metro_linea_b;2593310"
+    },
+    {
+        "periodo;indice;valor": "201707;metro_linea_k;630026"
+    },
+    {
+        "periodo;indice;valor": "201707;metro_linea_j;307972"
+    },
+    {
+        "periodo;indice;valor": "201707;metro_linea_l;103621"
+    },
+    {
+        "periodo;indice;valor": "201707;metro_linea_1_buses;1920054"
+    },
+    {
+        "periodo;indice;valor": "201707;metro_linea_2_buses;317948"
+    },
+    {
+        "periodo;indice;valor": "201707;metro_cuenca_3;594672"
+    },
+    {
+        "periodo;indice;valor": "201707;metro_cuenca_6;1028059"
+    },
+    {
+        "periodo;indice;valor": "201707;metro_cuenca_7_integrados;375266"
+    },
+    {
+        "periodo;indice;valor": "201707;metro_cuenca_5_integrados;370419"
+    },
+    {
+        "periodo;indice;valor": "201707;metro_tranvia;581525"
+    },
+    {
+        "periodo;indice;valor": "201707;metro_linea_h;0"
+    },
+    {
+        "periodo;indice;valor": "201108;metro_linea_a;12327129"
+    },
+    {
+        "periodo;indice;valor": "201108;metro_linea_b;2159626"
+    },
+    {
+        "periodo;indice;valor": "201108;metro_linea_k;552040"
+    },
+    {
+        "periodo;indice;valor": "201108;metro_linea_j;260463"
+    },
+    {
+        "periodo;indice;valor": "201108;metro_linea_l;82733"
+    },
+    {
+        "periodo;indice;valor": "201108;metro_linea_1_buses;0"
+    },
+    {
+        "periodo;indice;valor": "201208;metro_linea_a;12155283"
+    },
+    {
+        "periodo;indice;valor": "201208;metro_linea_b;2148709"
+    },
+    {
+        "periodo;indice;valor": "201208;metro_linea_k;555756"
+    },
+    {
+        "periodo;indice;valor": "201208;metro_linea_j;286231"
+    },
+    {
+        "periodo;indice;valor": "201208;metro_linea_l;83643"
+    },
+    {
+        "periodo;indice;valor": "201208;metro_linea_1_buses;952793"
+    },
+    {
+        "periodo;indice;valor": "201308;metro_linea_a;13271147"
+    },
+    {
+        "periodo;indice;valor": "201308;metro_linea_b;2290711"
+    },
+    {
+        "periodo;indice;valor": "201308;metro_linea_k;577013"
+    },
+    {
+        "periodo;indice;valor": "201308;metro_linea_j;343323"
+    },
+    {
+        "periodo;indice;valor": "201308;metro_linea_l;79313"
+    },
+    {
+        "periodo;indice;valor": "201308;metro_linea_1_buses;1427775"
+    },
+    {
+        "periodo;indice;valor": "201308;metro_linea_2_buses;143478"
+    },
+    {
+        "periodo;indice;valor": "201308;metro_cuenca_3;0"
+    },
+    {
+        "periodo;indice;valor": "201308;metro_cuenca_6;0"
+    },
+    {
+        "periodo;indice;valor": "201408;metro_linea_a;13656347"
+    },
+    {
+        "periodo;indice;valor": "201408;metro_linea_b;2367297"
+    },
+    {
+        "periodo;indice;valor": "201408;metro_linea_k;605479"
+    },
+    {
+        "periodo;indice;valor": "201408;metro_linea_j;370080"
+    },
+    {
+        "periodo;indice;valor": "201408;metro_linea_l;88000"
+    },
+    {
+        "periodo;indice;valor": "201408;metro_linea_1_buses;1859471"
+    },
+    {
+        "periodo;indice;valor": "201408;metro_linea_2_buses;361626"
+    },
+    {
+        "periodo;indice;valor": "201408;metro_cuenca_3;478733"
+    },
+    {
+        "periodo;indice;valor": "201408;metro_cuenca_6;861998"
+    },
+    {
+        "periodo;indice;valor": "201508;metro_linea_a;14873141"
+    },
+    {
+        "periodo;indice;valor": "201508;metro_linea_b;2558939"
+    },
+    {
+        "periodo;indice;valor": "201508;metro_linea_k;627058"
+    },
+    {
+        "periodo;indice;valor": "201508;metro_linea_j;427918"
+    },
+    {
+        "periodo;indice;valor": "201508;metro_linea_l;98380"
+    },
+    {
+        "periodo;indice;valor": "201508;metro_linea_1_buses;1952879"
+    },
+    {
+        "periodo;indice;valor": "201508;metro_linea_2_buses;336823"
+    },
+    {
+        "periodo;indice;valor": "201508;metro_cuenca_3;537028"
+    },
+    {
+        "periodo;indice;valor": "201508;metro_cuenca_6;971531"
+    },
+    {
+        "periodo;indice;valor": "201608;metro_linea_a;15599692"
+    },
+    {
+        "periodo;indice;valor": "201608;metro_linea_b;2734621"
+    },
+    {
+        "periodo;indice;valor": "201608;metro_linea_k;649181"
+    },
+    {
+        "periodo;indice;valor": "201608;metro_linea_j;424344"
+    },
+    {
+        "periodo;indice;valor": "201608;metro_linea_l;90077"
+    },
+    {
+        "periodo;indice;valor": "201608;metro_linea_1_buses;2102085"
+    },
+    {
+        "periodo;indice;valor": "201608;metro_linea_2_buses;347482"
+    },
+    {
+        "periodo;indice;valor": "201608;metro_cuenca_3;598073"
+    },
+    {
+        "periodo;indice;valor": "201608;metro_cuenca_6;1111041"
+    },
+    {
+        "periodo;indice;valor": "201608;metro_cuenca_7_integrados;393626"
+    },
+    {
+        "periodo;indice;valor": "201608;metro_cuenca_5_integrados;0"
+    },
+    {
+        "periodo;indice;valor": "201608;metro_tranvia;480355"
+    },
+    {
+        "periodo;indice;valor": "201608;metro_linea_h;0"
+    },
+    {
+        "periodo;indice;valor": "201707;metro_cuenca_9_integrados;112818"
+    },
+    {
+        "periodo;indice;valor": "201708;metro_linea_a;15590911"
+    },
+    {
+        "periodo;indice;valor": "201708;metro_linea_b;2822260"
+    },
+    {
+        "periodo;indice;valor": "201708;metro_linea_k;648320"
+    },
+    {
+        "periodo;indice;valor": "201708;metro_linea_j;441147"
+    },
+    {
+        "periodo;indice;valor": "201708;metro_linea_l;92092"
+    },
+    {
+        "periodo;indice;valor": "201708;metro_linea_1_buses;2169768"
+    },
+    {
+        "periodo;indice;valor": "201708;metro_linea_2_buses;339521"
+    },
+    {
+        "periodo;indice;valor": "201708;metro_cuenca_3;650271"
+    },
+    {
+        "periodo;indice;valor": "201708;metro_cuenca_6;1107986"
+    },
+    {
+        "periodo;indice;valor": "201708;metro_cuenca_7_integrados;408586"
+    },
+    {
+        "periodo;indice;valor": "201708;metro_cuenca_5_integrados;426122"
+    },
+    {
+        "periodo;indice;valor": "201708;metro_tranvia;662777"
+    },
+    {
+        "periodo;indice;valor": "201708;metro_linea_h;60882"
+    },
+    {
+        "periodo;indice;valor": "201109;metro_linea_a;11779626"
+    },
+    {
+        "periodo;indice;valor": "201109;metro_linea_b;2058446"
+    },
+    {
+        "periodo;indice;valor": "201109;metro_linea_k;439345"
+    },
+    {
+        "periodo;indice;valor": "201109;metro_linea_j;257191"
+    },
+    {
+        "periodo;indice;valor": "201109;metro_linea_l;51160"
+    },
+    {
+        "periodo;indice;valor": "201109;metro_linea_1_buses;0"
+    },
+    {
+        "periodo;indice;valor": "201209;metro_linea_a;11664331"
+    },
+    {
+        "periodo;indice;valor": "201209;metro_linea_b;2057264"
+    },
+    {
+        "periodo;indice;valor": "201209;metro_linea_k;541430"
+    },
+    {
+        "periodo;indice;valor": "201209;metro_linea_j;285202"
+    },
+    {
+        "periodo;indice;valor": "201209;metro_linea_l;61751"
+    },
+    {
+        "periodo;indice;valor": "201209;metro_linea_1_buses;978363"
+    },
+    {
+        "periodo;indice;valor": "201309;metro_linea_a;12975914"
+    },
+    {
+        "periodo;indice;valor": "201309;metro_linea_b;2211821"
+    },
+    {
+        "periodo;indice;valor": "201309;metro_linea_k;563977"
+    },
+    {
+        "periodo;indice;valor": "201309;metro_linea_j;340583"
+    },
+    {
+        "periodo;indice;valor": "201309;metro_linea_l;51831"
+    },
+    {
+        "periodo;indice;valor": "201309;metro_linea_1_buses;1401196"
+    },
+    {
+        "periodo;indice;valor": "201309;metro_linea_2_buses;150268"
+    },
+    {
+        "periodo;indice;valor": "201309;metro_cuenca_3;0"
+    },
+    {
+        "periodo;indice;valor": "201309;metro_cuenca_6;0"
+    },
+    {
+        "periodo;indice;valor": "201409;metro_linea_a;13876280"
+    },
+    {
+        "periodo;indice;valor": "201409;metro_linea_b;2362408"
+    },
+    {
+        "periodo;indice;valor": "201409;metro_linea_k;584510"
+    },
+    {
+        "periodo;indice;valor": "201409;metro_linea_j;371036"
+    },
+    {
+        "periodo;indice;valor": "201409;metro_linea_l;46398"
+    },
+    {
+        "periodo;indice;valor": "201409;metro_linea_1_buses;1852990"
+    },
+    {
+        "periodo;indice;valor": "201409;metro_linea_2_buses;362362"
+    },
+    {
+        "periodo;indice;valor": "201409;metro_cuenca_3;489630"
+    },
+    {
+        "periodo;indice;valor": "201409;metro_cuenca_6;907280"
+    },
+    {
+        "periodo;indice;valor": "201509;metro_linea_a;15259578"
+    },
+    {
+        "periodo;indice;valor": "201509;metro_linea_b;2563185"
+    },
+    {
+        "periodo;indice;valor": "201509;metro_linea_k;620170"
+    },
+    {
+        "periodo;indice;valor": "201509;metro_linea_j;416523"
+    },
+    {
+        "periodo;indice;valor": "201509;metro_linea_l;56535"
+    },
+    {
+        "periodo;indice;valor": "201509;metro_linea_1_buses;1978038"
+    },
+    {
+        "periodo;indice;valor": "201509;metro_linea_2_buses;349343"
+    },
+    {
+        "periodo;indice;valor": "201509;metro_cuenca_3;559120"
+    },
+    {
+        "periodo;indice;valor": "201509;metro_cuenca_6;1034346"
+    },
+    {
+        "periodo;indice;valor": "201609;metro_linea_a;15426388"
+    },
+    {
+        "periodo;indice;valor": "201609;metro_linea_b;2651233"
+    },
+    {
+        "periodo;indice;valor": "201609;metro_linea_k;629031"
+    },
+    {
+        "periodo;indice;valor": "201609;metro_linea_j;424451"
+    },
+    {
+        "periodo;indice;valor": "201609;metro_linea_l;59968"
+    },
+    {
+        "periodo;indice;valor": "201609;metro_linea_1_buses;2049751"
+    },
+    {
+        "periodo;indice;valor": "201609;metro_linea_2_buses;345948"
+    },
+    {
+        "periodo;indice;valor": "201609;metro_cuenca_3;592336"
+    },
+    {
+        "periodo;indice;valor": "201609;metro_cuenca_6;1109726"
+    },
+    {
+        "periodo;indice;valor": "201609;metro_cuenca_7_integrados;394334"
+    },
+    {
+        "periodo;indice;valor": "201609;metro_cuenca_5_integrados;0"
+    },
+    {
+        "periodo;indice;valor": "201609;metro_tranvia;419035"
+    },
+    {
+        "periodo;indice;valor": "201609;metro_linea_h;0"
+    },
+    {
+        "periodo;indice;valor": "201708;metro_cuenca_9_integrados;127627"
+    },
+    {
+        "periodo;indice;valor": "201709;metro_linea_a;15403265"
+    },
+    {
+        "periodo;indice;valor": "201709;metro_linea_b;2769498"
+    },
+    {
+        "periodo;indice;valor": "201709;metro_linea_k;634354"
+    },
+    {
+        "periodo;indice;valor": "201709;metro_linea_j;443323"
+    },
+    {
+        "periodo;indice;valor": "201709;metro_linea_l;59358"
+    },
+    {
+        "periodo;indice;valor": "201709;metro_linea_1_buses;2113366"
+    },
+    {
+        "periodo;indice;valor": "201709;metro_linea_2_buses;334044"
+    },
+    {
+        "periodo;indice;valor": "201709;metro_cuenca_3;629842"
+    },
+    {
+        "periodo;indice;valor": "201709;metro_cuenca_6;1097723"
+    },
+    {
+        "periodo;indice;valor": "201709;metro_cuenca_7_integrados;405479"
+    },
+    {
+        "periodo;indice;valor": "201709;metro_cuenca_5_integrados;424417"
+    },
+    {
+        "periodo;indice;valor": "201709;metro_tranvia;654798"
+    },
+    {
+        "periodo;indice;valor": "201709;metro_linea_h;60699"
+    },
+    {
+        "periodo;indice;valor": "201110;metro_linea_a;11733842"
+    },
+    {
+        "periodo;indice;valor": "201110;metro_linea_b;2066289"
+    },
+    {
+        "periodo;indice;valor": "201110;metro_linea_k;564963"
+    },
+    {
+        "periodo;indice;valor": "201110;metro_linea_j;267591"
+    },
+    {
+        "periodo;indice;valor": "201110;metro_linea_l;71958"
+    },
+    {
+        "periodo;indice;valor": "201110;metro_linea_1_buses;0"
+    },
+    {
+        "periodo;indice;valor": "201210;metro_linea_a;12455682"
+    },
+    {
+        "periodo;indice;valor": "201210;metro_linea_b;2183514"
+    },
+    {
+        "periodo;indice;valor": "201210;metro_linea_k;568586"
+    },
+    {
+        "periodo;indice;valor": "201210;metro_linea_j;297366"
+    },
+    {
+        "periodo;indice;valor": "201210;metro_linea_l;63329"
+    },
+    {
+        "periodo;indice;valor": "201210;metro_linea_1_buses;1070447"
+    },
+    {
+        "periodo;indice;valor": "201310;metro_linea_a;13548928"
+    },
+    {
+        "periodo;indice;valor": "201310;metro_linea_b;2301295"
+    },
+    {
+        "periodo;indice;valor": "201310;metro_linea_k;589008"
+    },
+    {
+        "periodo;indice;valor": "201310;metro_linea_j;359663"
+    },
+    {
+        "periodo;indice;valor": "201310;metro_linea_l;64556"
+    },
+    {
+        "periodo;indice;valor": "201310;metro_linea_1_buses;1453615"
+    },
+    {
+        "periodo;indice;valor": "201310;metro_linea_2_buses;159941"
+    },
+    {
+        "periodo;indice;valor": "201310;metro_cuenca_3;7200"
+    },
+    {
+        "periodo;indice;valor": "201310;metro_cuenca_6;1271"
+    },
+    {
+        "periodo;indice;valor": "201410;metro_linea_a;14458862"
+    },
+    {
+        "periodo;indice;valor": "201410;metro_linea_b;2457612"
+    },
+    {
+        "periodo;indice;valor": "201410;metro_linea_k;604380"
+    },
+    {
+        "periodo;indice;valor": "201410;metro_linea_j;383101"
+    },
+    {
+        "periodo;indice;valor": "201410;metro_linea_l;55807"
+    },
+    {
+        "periodo;indice;valor": "201410;metro_linea_1_buses;1878149"
+    },
+    {
+        "periodo;indice;valor": "201410;metro_linea_2_buses;365020"
+    },
+    {
+        "periodo;indice;valor": "201410;metro_cuenca_3;494671"
+    },
+    {
+        "periodo;indice;valor": "201410;metro_cuenca_6;924596"
+    },
+    {
+        "periodo;indice;valor": "201510;metro_linea_a;15367531"
+    },
+    {
+        "periodo;indice;valor": "201510;metro_linea_b;2588079"
+    },
+    {
+        "periodo;indice;valor": "201510;metro_linea_k;634265"
+    },
+    {
+        "periodo;indice;valor": "201510;metro_linea_j;422395"
+    },
+    {
+        "periodo;indice;valor": "201510;metro_linea_l;68698"
+    },
+    {
+        "periodo;indice;valor": "201510;metro_linea_1_buses;1965176"
+    },
+    {
+        "periodo;indice;valor": "201510;metro_linea_2_buses;348987"
+    },
+    {
+        "periodo;indice;valor": "201510;metro_cuenca_3;570201"
+    },
+    {
+        "periodo;indice;valor": "201510;metro_cuenca_6;1071318"
+    },
+    {
+        "periodo;indice;valor": "201610;metro_linea_a;15215438"
+    },
+    {
+        "periodo;indice;valor": "201610;metro_linea_b;2624743"
+    },
+    {
+        "periodo;indice;valor": "201610;metro_linea_k;637260"
+    },
+    {
+        "periodo;indice;valor": "201610;metro_linea_j;422982"
+    },
+    {
+        "periodo;indice;valor": "201610;metro_linea_l;77622"
+    },
+    {
+        "periodo;indice;valor": "201610;metro_linea_1_buses;2059090"
+    },
+    {
+        "periodo;indice;valor": "201610;metro_linea_2_buses;338737"
+    },
+    {
+        "periodo;indice;valor": "201610;metro_cuenca_3;589609"
+    },
+    {
+        "periodo;indice;valor": "201610;metro_cuenca_6;1103095"
+    },
+    {
+        "periodo;indice;valor": "201610;metro_cuenca_7_integrados;379217"
+    },
+    {
+        "periodo;indice;valor": "201610;metro_cuenca_5_integrados;0"
+    },
+    {
+        "periodo;indice;valor": "201610;metro_tranvia;434404"
+    },
+    {
+        "periodo;indice;valor": "201610;metro_linea_h;0"
+    },
+    {
+        "periodo;indice;valor": "201710;metro_linea_a;15567420"
+    },
+    {
+        "periodo;indice;valor": "201710;metro_linea_b;2794918"
+    },
+    {
+        "periodo;indice;valor": "201710;metro_linea_k;642659"
+    },
+    {
+        "periodo;indice;valor": "201710;metro_linea_j;443270"
+    },
+    {
+        "periodo;indice;valor": "201710;metro_linea_l;72443"
+    },
+    {
+        "periodo;indice;valor": "201710;metro_linea_1_buses;2119555"
+    },
+    {
+        "periodo;indice;valor": "201710;metro_linea_2_buses;336269"
+    },
+    {
+        "periodo;indice;valor": "201710;metro_cuenca_3;642348"
+    },
+    {
+        "periodo;indice;valor": "201710;metro_cuenca_6;1092715"
+    },
+    {
+        "periodo;indice;valor": "201710;metro_cuenca_7_integrados;406003"
+    },
+    {
+        "periodo;indice;valor": "201710;metro_cuenca_5_integrados;424048"
+    },
+    {
+        "periodo;indice;valor": "201710;metro_tranvia;669999"
+    },
+    {
+        "periodo;indice;valor": "201710;metro_linea_h;61217"
+    },
+    {
+        "periodo;indice;valor": "201111;metro_linea_a;11400883"
+    },
+    {
+        "periodo;indice;valor": "201111;metro_linea_b;1970083"
+    },
+    {
+        "periodo;indice;valor": "201111;metro_linea_k;530352"
+    },
+    {
+        "periodo;indice;valor": "201111;metro_linea_j;249783"
+    },
+    {
+        "periodo;indice;valor": "201111;metro_linea_l;66532"
+    },
+    {
+        "periodo;indice;valor": "201111;metro_linea_1_buses;0"
+    },
+    {
+        "periodo;indice;valor": "201211;metro_linea_a;11943062"
+    },
+    {
+        "periodo;indice;valor": "201211;metro_linea_b;2064561"
+    },
+    {
+        "periodo;indice;valor": "201211;metro_linea_k;531304"
+    },
+    {
+        "periodo;indice;valor": "201211;metro_linea_j;285364"
+    },
+    {
+        "periodo;indice;valor": "201211;metro_linea_l;65179"
+    },
+    {
+        "periodo;indice;valor": "201211;metro_linea_1_buses;1021419"
+    },
+    {
+        "periodo;indice;valor": "201311;metro_linea_a;12990948"
+    },
+    {
+        "periodo;indice;valor": "201311;metro_linea_b;2208810"
+    },
+    {
+        "periodo;indice;valor": "201311;metro_linea_k;573924"
+    },
+    {
+        "periodo;indice;valor": "201311;metro_linea_j;347354"
+    },
+    {
+        "periodo;indice;valor": "201311;metro_linea_l;62073"
+    },
+    {
+        "periodo;indice;valor": "201311;metro_linea_1_buses;1373085"
+    },
+    {
+        "periodo;indice;valor": "201311;metro_linea_2_buses;160376"
+    },
+    {
+        "periodo;indice;valor": "201311;metro_cuenca_3;70002"
+    },
+    {
+        "periodo;indice;valor": "201311;metro_cuenca_6;68222"
+    },
+    {
+        "periodo;indice;valor": "201411;metro_linea_a;13573843"
+    },
+    {
+        "periodo;indice;valor": "201411;metro_linea_b;2306473"
+    },
+    {
+        "periodo;indice;valor": "201411;metro_linea_k;457103"
+    },
+    {
+        "periodo;indice;valor": "201411;metro_linea_j;364854"
+    },
+    {
+        "periodo;indice;valor": "201411;metro_linea_l;50904"
+    },
+    {
+        "periodo;indice;valor": "201411;metro_linea_1_buses;1782297"
+    },
+    {
+        "periodo;indice;valor": "201411;metro_linea_2_buses;334208"
+    },
+    {
+        "periodo;indice;valor": "201411;metro_cuenca_3;455002"
+    },
+    {
+        "periodo;indice;valor": "201411;metro_cuenca_6;872802"
+    },
+    {
+        "periodo;indice;valor": "201511;metro_linea_a;14881312"
+    },
+    {
+        "periodo;indice;valor": "201511;metro_linea_b;2469658"
+    },
+    {
+        "periodo;indice;valor": "201511;metro_linea_k;618303"
+    },
+    {
+        "periodo;indice;valor": "201511;metro_linea_j;420042"
+    },
+    {
+        "periodo;indice;valor": "201511;metro_linea_l;73400"
+    },
+    {
+        "periodo;indice;valor": "201511;metro_linea_1_buses;1876598"
+    },
+    {
+        "periodo;indice;valor": "201511;metro_linea_2_buses;320606"
+    },
+    {
+        "periodo;indice;valor": "201511;metro_cuenca_3;519261"
+    },
+    {
+        "periodo;indice;valor": "201511;metro_cuenca_6;994328"
+    },
+    {
+        "periodo;indice;valor": "201611;metro_linea_a;15194187"
+    },
+    {
+        "periodo;indice;valor": "201611;metro_linea_b;2595602"
+    },
+    {
+        "periodo;indice;valor": "201611;metro_linea_k;613028"
+    },
+    {
+        "periodo;indice;valor": "201611;metro_linea_j;409257"
+    },
+    {
+        "periodo;indice;valor": "201611;metro_linea_l;68126"
+    },
+    {
+        "periodo;indice;valor": "201611;metro_linea_1_buses;1996823"
+    },
+    {
+        "periodo;indice;valor": "201611;metro_linea_2_buses;328415"
+    },
+    {
+        "periodo;indice;valor": "201611;metro_cuenca_3;563576"
+    },
+    {
+        "periodo;indice;valor": "201611;metro_cuenca_6;1050024"
+    },
+    {
+        "periodo;indice;valor": "201611;metro_cuenca_7_integrados;378563"
+    },
+    {
+        "periodo;indice;valor": "201611;metro_cuenca_5_integrados;0"
+    },
+    {
+        "periodo;indice;valor": "201611;metro_tranvia;413092"
+    },
+    {
+        "periodo;indice;valor": "201611;metro_linea_h;0"
+    },
+    {
+        "periodo;indice;valor": "201711;metro_linea_a;14791658"
+    },
+    {
+        "periodo;indice;valor": "201711;metro_linea_b;2703267"
+    },
+    {
+        "periodo;indice;valor": "201711;metro_linea_k;636745"
+    },
+    {
+        "periodo;indice;valor": "201711;metro_linea_j;432012"
+    },
+    {
+        "periodo;indice;valor": "201711;metro_linea_l;74700"
+    },
+    {
+        "periodo;indice;valor": "201711;metro_linea_1_buses;2046099"
+    },
+    {
+        "periodo;indice;valor": "201711;metro_linea_2_buses;329126"
+    },
+    {
+        "periodo;indice;valor": "201711;metro_cuenca_3;615586"
+    },
+    {
+        "periodo;indice;valor": "201711;metro_cuenca_6;1036227"
+    },
+    {
+        "periodo;indice;valor": "201711;metro_cuenca_7_integrados;399708"
+    },
+    {
+        "periodo;indice;valor": "201711;metro_cuenca_5_integrados;413201"
+    },
+    {
+        "periodo;indice;valor": "201711;metro_tranvia;674946"
+    },
+    {
+        "periodo;indice;valor": "201711;metro_linea_h;59289"
+    },
+    {
+        "periodo;indice;valor": "201112;metro_linea_a;12699496"
+    },
+    {
+        "periodo;indice;valor": "201112;metro_linea_b;2044723"
+    },
+    {
+        "periodo;indice;valor": "201112;metro_linea_k;617214"
+    },
+    {
+        "periodo;indice;valor": "201112;metro_linea_j;281159"
+    },
+    {
+        "periodo;indice;valor": "201112;metro_linea_l;98438"
+    },
+    {
+        "periodo;indice;valor": "201112;metro_linea_1_buses;146265"
+    },
+    {
+        "periodo;indice;valor": "201212;metro_linea_a;12508440"
+    },
+    {
+        "periodo;indice;valor": "201212;metro_linea_b;2046501"
+    },
+    {
+        "periodo;indice;valor": "201212;metro_linea_k;603826"
+    },
+    {
+        "periodo;indice;valor": "201212;metro_linea_j;314662"
+    },
+    {
+        "periodo;indice;valor": "201212;metro_linea_l;97437"
+    },
+    {
+        "periodo;indice;valor": "201212;metro_linea_1_buses;966684"
+    },
+    {
+        "periodo;indice;valor": "201312;metro_linea_a;13763172"
+    },
+    {
+        "periodo;indice;valor": "201312;metro_linea_b;2203075"
+    },
+    {
+        "periodo;indice;valor": "201312;metro_linea_k;655997"
+    },
+    {
+        "periodo;indice;valor": "201312;metro_linea_j;381337"
+    },
+    {
+        "periodo;indice;valor": "201312;metro_linea_l;84273"
+    },
+    {
+        "periodo;indice;valor": "201312;metro_linea_1_buses;1406731"
+    },
+    {
+        "periodo;indice;valor": "201312;metro_linea_2_buses;194409"
+    },
+    {
+        "periodo;indice;valor": "201312;metro_cuenca_3;168976"
+    },
+    {
+        "periodo;indice;valor": "201312;metro_cuenca_6;115126"
+    },
+    {
+        "periodo;indice;valor": "201412;metro_linea_a;14515230"
+    },
+    {
+        "periodo;indice;valor": "201412;metro_linea_b;2322375"
+    },
+    {
+        "periodo;indice;valor": "201412;metro_linea_k;654265"
+    },
+    {
+        "periodo;indice;valor": "201412;metro_linea_j;398255"
+    },
+    {
+        "periodo;indice;valor": "201412;metro_linea_l;94022"
+    },
+    {
+        "periodo;indice;valor": "201412;metro_linea_1_buses;1752707"
+    },
+    {
+        "periodo;indice;valor": "201412;metro_linea_2_buses;342936"
+    },
+    {
+        "periodo;indice;valor": "201412;metro_cuenca_3;447203"
+    },
+    {
+        "periodo;indice;valor": "201412;metro_cuenca_6;821398"
+    },
+    {
+        "periodo;indice;valor": "201512;metro_linea_a;15551802"
+    },
+    {
+        "periodo;indice;valor": "201512;metro_linea_b;2456015"
+    },
+    {
+        "periodo;indice;valor": "201512;metro_linea_k;683135"
+    },
+    {
+        "periodo;indice;valor": "201512;metro_linea_j;355107"
+    },
+    {
+        "periodo;indice;valor": "201512;metro_linea_l;120637"
+    },
+    {
+        "periodo;indice;valor": "201512;metro_linea_1_buses;1822264"
+    },
+    {
+        "periodo;indice;valor": "201512;metro_linea_2_buses;330811"
+    },
+    {
+        "periodo;indice;valor": "201512;metro_cuenca_3;493007"
+    },
+    {
+        "periodo;indice;valor": "201512;metro_cuenca_6;938575"
+    },
+    {
+        "periodo;indice;valor": "201612;metro_linea_a;15993181"
+    },
+    {
+        "periodo;indice;valor": "201612;metro_linea_b;2535013"
+    },
+    {
+        "periodo;indice;valor": "201612;metro_linea_k;698888"
+    },
+    {
+        "periodo;indice;valor": "201612;metro_linea_j;446320"
+    },
+    {
+        "periodo;indice;valor": "201612;metro_linea_l;114172"
+    },
+    {
+        "periodo;indice;valor": "201612;metro_linea_1_buses;1929735"
+    },
+    {
+        "periodo;indice;valor": "201612;metro_linea_2_buses;335095"
+    },
+    {
+        "periodo;indice;valor": "201612;metro_cuenca_3;540908"
+    },
+    {
+        "periodo;indice;valor": "201612;metro_cuenca_6;983874"
+    },
+    {
+        "periodo;indice;valor": "201612;metro_cuenca_7_integrados;364853"
+    },
+    {
+        "periodo;indice;valor": "201612;metro_cuenca_5_integrados;24687"
+    },
+    {
+        "periodo;indice;valor": "201612;metro_tranvia;514277"
+    },
+    {
+        "periodo;indice;valor": "201612;metro_linea_h;19264"
+    },
+    {
+        "periodo;indice;valor": "201712;metro_linea_a;15265404"
+    },
+    {
+        "periodo;indice;valor": "201712;metro_linea_b;2474290"
+    },
+    {
+        "periodo;indice;valor": "201712;metro_linea_k;709528"
+    },
+    {
+        "periodo;indice;valor": "201712;metro_linea_j;442552"
+    },
+    {
+        "periodo;indice;valor": "201712;metro_linea_l;117470"
+    },
+    {
+        "periodo;indice;valor": "201712;metro_linea_1_buses;1938156"
+    },
+    {
+        "periodo;indice;valor": "201712;metro_linea_2_buses;321518"
+    },
+    {
+        "periodo;indice;valor": "201712;metro_cuenca_3;570515"
+    },
+    {
+        "periodo;indice;valor": "201712;metro_cuenca_6;954275"
+    },
+    {
+        "periodo;indice;valor": "201712;metro_cuenca_7_integrados;375026"
+    },
+    {
+        "periodo;indice;valor": "201712;metro_cuenca_5_integrados;358781"
+    },
+    {
+        "periodo;indice;valor": "201712;metro_tranvia;695828"
+    },
+    {
+        "periodo;indice;valor": "201712;metro_linea_h;63793"
+    },
+    {
+        "periodo;indice;valor": "201709;metro_cuenca_9_integrados;127577"
+    },
+    {
+        "periodo;indice;valor": "201710;metro_cuenca_9_integrados;129066"
+    },
+    {
+        "periodo;indice;valor": "201711;metro_cuenca_9_integrados;126932"
+    },
+    {
+        "periodo;indice;valor": "201712;metro_cuenca_9_integrados;113086"
+    },
+    {
+        "periodo;indice;valor": "201801;metro_linea_h;47162"
+    },
+    {
+        "periodo;indice;valor": "201801;metro_linea_a;13502214"
+    },
+    {
+        "periodo;indice;valor": "201801;metro_linea_b;2169943"
+    },
+    {
+        "periodo;indice;valor": "201801;metro_linea_k;651480"
+    },
+    {
+        "periodo;indice;valor": "201801;metro_linea_j;414478"
+    },
+    {
+        "periodo;indice;valor": "201801;metro_linea_l;130621"
+    },
+    {
+        "periodo;indice;valor": "201801;metro_linea_1_buses;1831822"
+    },
+    {
+        "periodo;indice;valor": "201801;metro_linea_2_buses;303527"
+    },
+    {
+        "periodo;indice;valor": "201801;metro_cuenca_3;554229"
+    },
+    {
+        "periodo;indice;valor": "201801;metro_cuenca_6;956004"
+    },
+    {
+        "periodo;indice;valor": "201801;metro_cuenca_5_integrados;366202"
+    },
+    {
+        "periodo;indice;valor": "201801;metro_cuenca_7_integrados;356622"
+    },
+    {
+        "periodo;indice;valor": "201801;metro_cuenca_9_integrados;107738"
+    },
+    {
+        "periodo;indice;valor": "201801;metro_tranvia;639973"
+    },
+    {
+        "periodo;indice;valor": "201802;metro_linea_h;55351"
+    },
+    {
+        "periodo;indice;valor": "201802;metro_linea_a;13676859"
+    },
+    {
+        "periodo;indice;valor": "201802;metro_linea_b;2328886"
+    },
+    {
+        "periodo;indice;valor": "201802;metro_linea_k;603168"
+    },
+    {
+        "periodo;indice;valor": "201802;metro_linea_j;416493"
+    },
+    {
+        "periodo;indice;valor": "201802;metro_linea_l;67335"
+    },
+    {
+        "periodo;indice;valor": "201802;metro_linea_1_buses;2054638"
+    },
+    {
+        "periodo;indice;valor": "201802;metro_linea_2_buses;326004"
+    },
+    {
+        "periodo;indice;valor": "201802;metro_cuenca_3;608434"
+    },
+    {
+        "periodo;indice;valor": "201802;metro_cuenca_6;1024141"
+    },
+    {
+        "periodo;indice;valor": "201802;metro_cuenca_5_integrados;392098"
+    },
+    {
+        "periodo;indice;valor": "201802;metro_cuenca_7_integrados;404533"
+    },
+    {
+        "periodo;indice;valor": "201802;metro_cuenca_9_integrados;121186"
+    },
+    {
+        "periodo;indice;valor": "201802;metro_tranvia;676413"
+    },
+    {
+        "periodo;indice;valor": "201803;metro_linea_h;60052"
+    },
+    {
+        "periodo;indice;valor": "201803;metro_linea_a;14136660"
+    },
+    {
+        "periodo;indice;valor": "201803;metro_linea_b;2357619"
+    },
+    {
+        "periodo;indice;valor": "201803;metro_linea_k;642933"
+    },
+    {
+        "periodo;indice;valor": "201803;metro_linea_j;433843"
+    },
+    {
+        "periodo;indice;valor": "201803;metro_linea_l;102878"
+    },
+    {
+        "periodo;indice;valor": "201803;metro_linea_1_buses;2081501"
+    },
+    {
+        "periodo;indice;valor": "201803;metro_linea_2_buses;330756"
+    },
+    {
+        "periodo;indice;valor": "201803;metro_cuenca_3;627069"
+    },
+    {
+        "periodo;indice;valor": "201803;metro_cuenca_6;1075525"
+    },
+    {
+        "periodo;indice;valor": "201803;metro_cuenca_5_integrados;403962"
+    },
+    {
+        "periodo;indice;valor": "201803;metro_cuenca_7_integrados;395625"
+    },
+    {
+        "periodo;indice;valor": "201803;metro_cuenca_9_integrados;122185"
+    },
+    {
+        "periodo;indice;valor": "201803;metro_tranvia;702173"
+    },
+    {
+        "periodo;indice;valor": "201804;metro_linea_h;60478"
+    },
+    {
+        "periodo;indice;valor": "201804;metro_linea_a;14721662"
+    },
+    {
+        "periodo;indice;valor": "201804;metro_linea_b;2471310"
+    },
+    {
+        "periodo;indice;valor": "201804;metro_linea_k;627610"
+    },
+    {
+        "periodo;indice;valor": "201804;metro_linea_j;436965"
+    },
+    {
+        "periodo;indice;valor": "201804;metro_linea_l;62698"
+    },
+    {
+        "periodo;indice;valor": "201804;metro_linea_1_buses;2138519"
+    },
+    {
+        "periodo;indice;valor": "201804;metro_linea_2_buses;336914"
+    },
+    {
+        "periodo;indice;valor": "201804;metro_cuenca_3;646902"
+    },
+    {
+        "periodo;indice;valor": "201804;metro_cuenca_6;1109478"
+    },
+    {
+        "periodo;indice;valor": "201804;metro_cuenca_7_integrados;415014"
+    },
+    {
+        "periodo;indice;valor": "201804;metro_cuenca_5_integrados;439296"
+    },
+    {
+        "periodo;indice;valor": "201804;metro_cuenca_9_integrados;131685"
+    },
+    {
+        "periodo;indice;valor": "201804;metro_tranvia;721761"
+    },
+    {
+        "periodo;indice;valor": "201805;metro_linea_h;60034"
+    },
+    {
+        "periodo;indice;valor": "201805;metro_linea_a;14200846"
+    },
+    {
+        "periodo;indice;valor": "201805;metro_linea_b;2262275"
+    },
+    {
+        "periodo;indice;valor": "201805;metro_linea_k;626916"
+    },
+    {
+        "periodo;indice;valor": "201805;metro_linea_j;413945"
+    },
+    {
+        "periodo;indice;valor": "201805;metro_linea_l;60911"
+    },
+    {
+        "periodo;indice;valor": "201805;metro_linea_1_buses;2185949"
+    },
+    {
+        "periodo;indice;valor": "201805;metro_linea_2_buses;345774"
+    },
+    {
+        "periodo;indice;valor": "201805;metro_cuenca_3;650703"
+    },
+    {
+        "periodo;indice;valor": "201805;metro_cuenca_6;1172990"
+    },
+    {
+        "periodo;indice;valor": "201805;metro_cuenca_7_integrados;410423"
+    },
+    {
+        "periodo;indice;valor": "201805;metro_cuenca_5_integrados;437453"
+    },
+    {
+        "periodo;indice;valor": "201805;metro_cuenca_9_integrados;131307"
+    },
+    {
+        "periodo;indice;valor": "201805;metro_tranvia;740367"
+    },
+    {
+        "periodo;indice;valor": "201806;metro_linea_h;58419"
+    },
+    {
+        "periodo;indice;valor": "201806;metro_linea_a;13422736"
+    },
+    {
+        "periodo;indice;valor": "201806;metro_linea_b;2026020"
+    },
+    {
+        "periodo;indice;valor": "201806;metro_linea_k;637178"
+    },
+    {
+        "periodo;indice;valor": "201806;metro_linea_j;380210"
+    },
+    {
+        "periodo;indice;valor": "201806;metro_linea_l;101388"
+    },
+    {
+        "periodo;indice;valor": "201806;metro_linea_1_buses;1937280"
+    },
+    {
+        "periodo;indice;valor": "201806;metro_linea_2_buses;318859"
+    },
+    {
+        "periodo;indice;valor": "201806;metro_cuenca_3;576915"
+    },
+    {
+        "periodo;indice;valor": "201806;metro_cuenca_6;1086920"
+    },
+    {
+        "periodo;indice;valor": "201806;metro_cuenca_7_integrados;387588"
+    },
+    {
+        "periodo;indice;valor": "201806;metro_cuenca_5_integrados;393387"
+    },
+    {
+        "periodo;indice;valor": "201806;metro_cuenca_9_integrados;114984"
+    },
+    {
+        "periodo;indice;valor": "201806;metro_tranvia;677513"
+    },
+    {
+        "periodo;indice;valor": "201807;metro_linea_h;51194"
+    },
+    {
+        "periodo;indice;valor": "201807;metro_linea_a;13995720"
+    },
+    {
+        "periodo;indice;valor": "201807;metro_linea_b;2099949"
+    },
+    {
+        "periodo;indice;valor": "201807;metro_linea_k;491158"
+    },
+    {
+        "periodo;indice;valor": "201807;metro_linea_j;335819"
+    },
+    {
+        "periodo;indice;valor": "201807;metro_linea_l;82376"
+    },
+    {
+        "periodo;indice;valor": "201807;metro_linea_1_buses;2001024"
+    },
+    {
+        "periodo;indice;valor": "201807;metro_linea_2_buses;328116"
+    },
+    {
+        "periodo;indice;valor": "201807;metro_cuenca_3;613271"
+    },
+    {
+        "periodo;indice;valor": "201807;metro_cuenca_6;1177945"
+    },
+    {
+        "periodo;indice;valor": "201807;metro_cuenca_7_integrados;403355"
+    },
+    {
+        "periodo;indice;valor": "201807;metro_cuenca_5_integrados;410755"
+    },
+    {
+        "periodo;indice;valor": "201807;metro_cuenca_9_integrados;118299"
+    },
+    {
+        "periodo;indice;valor": "201807;metro_tranvia;712798"
+    },
+    {
+        "periodo;indice;valor": "201808;metro_linea_h;63135"
+    },
+    {
+        "periodo;indice;valor": "201808;metro_linea_a;15313256"
+    },
+    {
+        "periodo;indice;valor": "201808;metro_linea_b;2363588"
+    },
+    {
+        "periodo;indice;valor": "201808;metro_linea_k;680371"
+    },
+    {
+        "periodo;indice;valor": "201808;metro_linea_j;426037"
+    },
+    {
+        "periodo;indice;valor": "201808;metro_linea_l;100586"
+    },
+    {
+        "periodo;indice;valor": "201808;metro_linea_1_buses;2215879"
+    },
+    {
+        "periodo;indice;valor": "201808;metro_linea_2_buses;351291"
+    },
+    {
+        "periodo;indice;valor": "201808;metro_cuenca_3;663026"
+    },
+    {
+        "periodo;indice;valor": "201808;metro_cuenca_6;1250636"
+    },
+    {
+        "periodo;indice;valor": "201808;metro_cuenca_7_integrados;444232"
+    },
+    {
+        "periodo;indice;valor": "201808;metro_cuenca_5_integrados;466078"
+    },
+    {
+        "periodo;indice;valor": "201808;metro_cuenca_9_integrados;134286"
+    },
+    {
+        "periodo;indice;valor": "201808;metro_tranvia;812621"
+    },
+    {
+        "periodo;indice;valor": "201809;metro_linea_h;62611"
+    },
+    {
+        "periodo;indice;valor": "201809;metro_linea_a;14099240"
+    },
+    {
+        "periodo;indice;valor": "201809;metro_linea_b;2249250"
+    },
+    {
+        "periodo;indice;valor": "201809;metro_linea_k;656946"
+    },
+    {
+        "periodo;indice;valor": "201809;metro_linea_j;415097"
+    },
+    {
+        "periodo;indice;valor": "201809;metro_linea_l;67901"
+    },
+    {
+        "periodo;indice;valor": "201809;metro_linea_1_buses;2153143"
+    },
+    {
+        "periodo;indice;valor": "201809;metro_linea_2_buses;344823"
+    },
+    {
+        "periodo;indice;valor": "201809;metro_cuenca_3;645453"
+    },
+    {
+        "periodo;indice;valor": "201809;metro_cuenca_6;1250405"
+    },
+    {
+        "periodo;indice;valor": "201809;metro_cuenca_7_integrados;440925"
+    },
+    {
+        "periodo;indice;valor": "201809;metro_cuenca_5_integrados;457438"
+    },
+    {
+        "periodo;indice;valor": "201809;metro_cuenca_9_integrados;134863"
+    },
+    {
+        "periodo;indice;valor": "201809;metro_tranvia;791818"
+    },
+    {
+        "periodo;indice;valor": "201810;metro_linea_h;65527"
+    },
+    {
+        "periodo;indice;valor": "201810;metro_linea_a;14042117"
+    },
+    {
+        "periodo;indice;valor": "201810;metro_linea_b;2340270"
+    },
+    {
+        "periodo;indice;valor": "201810;metro_linea_k;667959"
+    },
+    {
+        "periodo;indice;valor": "201810;metro_linea_j;428801"
+    },
+    {
+        "periodo;indice;valor": "201810;metro_linea_l;69740"
+    },
+    {
+        "periodo;indice;valor": "201810;metro_linea_1_buses;2243401"
+    },
+    {
+        "periodo;indice;valor": "201810;metro_linea_2_buses;358549"
+    },
+    {
+        "periodo;indice;valor": "201810;metro_cuenca_3;670285"
+    },
+    {
+        "periodo;indice;valor": "201810;metro_cuenca_6;1304837"
+    },
+    {
+        "periodo;indice;valor": "201810;metro_cuenca_7_integrados;465653"
+    },
+    {
+        "periodo;indice;valor": "201810;metro_cuenca_5_integrados;485386"
+    },
+    {
+        "periodo;indice;valor": "201810;metro_cuenca_9_integrados;145005"
+    },
+    {
+        "periodo;indice;valor": "201810;metro_tranvia;828743"
+    },
+    {
+        "periodo;indice;valor": "201811;metro_linea_h;60908"
+    },
+    {
+        "periodo;indice;valor": "201811;metro_linea_a;13431128"
+    },
+    {
+        "periodo;indice;valor": "201811;metro_linea_b;2208532"
+    },
+    {
+        "periodo;indice;valor": "201811;metro_linea_k;642780"
+    },
+    {
+        "periodo;indice;valor": "201811;metro_linea_j;403901"
+    },
+    {
+        "periodo;indice;valor": "201811;metro_linea_l;69625"
+    },
+    {
+        "periodo;indice;valor": "201811;metro_linea_1_buses;2074972"
+    },
+    {
+        "periodo;indice;valor": "201811;metro_linea_2_buses;328937"
+    },
+    {
+        "periodo;indice;valor": "201811;metro_cuenca_3;616971"
+    },
+    {
+        "periodo;indice;valor": "201811;metro_cuenca_6;1220185"
+    },
+    {
+        "periodo;indice;valor": "201811;metro_cuenca_7_integrados;440482"
+    },
+    {
+        "periodo;indice;valor": "201811;metro_cuenca_5_integrados;451328"
+    },
+    {
+        "periodo;indice;valor": "201811;metro_cuenca_9_integrados;139483"
+    },
+    {
+        "periodo;indice;valor": "201811;metro_tranvia;773411"
+    },
+    {
+        "periodo;indice;valor": "201812;metro_linea_h;65529"
+    },
+    {
+        "periodo;indice;valor": "201812;metro_linea_a;14210329"
+    },
+    {
+        "periodo;indice;valor": "201812;metro_linea_b;2150654"
+    },
+    {
+        "periodo;indice;valor": "201812;metro_linea_k;713998"
+    },
+    {
+        "periodo;indice;valor": "201812;metro_linea_j;427233"
+    },
+    {
+        "periodo;indice;valor": "201812;metro_linea_l;115419"
+    },
+    {
+        "periodo;indice;valor": "201812;metro_linea_1_buses;1987039"
+    },
+    {
+        "periodo;indice;valor": "201812;metro_linea_2_buses;328408"
+    },
+    {
+        "periodo;indice;valor": "201812;metro_cuenca_3;579800"
+    },
+    {
+        "periodo;indice;valor": "201812;metro_cuenca_6;1127420"
+    },
+    {
+        "periodo;indice;valor": "201812;metro_cuenca_7_integrados;420576"
+    },
+    {
+        "periodo;indice;valor": "201812;metro_cuenca_5_integrados;400910"
+    },
+    {
+        "periodo;indice;valor": "201812;metro_cuenca_9_integrados;128428"
+    },
+    {
+        "periodo;indice;valor": "201812;metro_tranvia;771696"
+    },
+    {
+        "periodo;indice;valor": "201901;metro_linea_h;60569"
+    },
+    {
+        "periodo;indice;valor": "201901;metro_linea_a;12535604"
+    },
+    {
+        "periodo;indice;valor": "201901;metro_linea_b;1998443"
+    },
+    {
+        "periodo;indice;valor": "201901;metro_linea_k;661502"
+    },
+    {
+        "periodo;indice;valor": "201901;metro_linea_j;394977"
+    },
+    {
+        "periodo;indice;valor": "201901;metro_linea_l;127279"
+    },
+    {
+        "periodo;indice;valor": "201901;metro_linea_1_buses;1869841"
+    },
+    {
+        "periodo;indice;valor": "201901;metro_linea_2_buses;316079"
+    },
+    {
+        "periodo;indice;valor": "201901;metro_cuenca_3;598896"
+    },
+    {
+        "periodo;indice;valor": "201901;metro_cuenca_6;1107675"
+    },
+    {
+        "periodo;indice;valor": "201901;metro_cuenca_7_integrados;408274"
+    },
+    {
+        "periodo;indice;valor": "201901;metro_cuenca_5_integrados;399409"
+    },
+    {
+        "periodo;indice;valor": "201901;metro_cuenca_9_integrados;121399"
+    },
+    {
+        "periodo;indice;valor": "201901;metro_tranvia;706097"
+    },
+    {
+        "periodo;indice;valor": "201902;metro_linea_h;60464"
+    },
+    {
+        "periodo;indice;valor": "201902;metro_linea_a;12778251"
+    },
+    {
+        "periodo;indice;valor": "201902;metro_linea_b;2172629"
+    },
+    {
+        "periodo;indice;valor": "201902;metro_linea_k;612649"
+    },
+    {
+        "periodo;indice;valor": "201902;metro_linea_j;391772"
+    },
+    {
+        "periodo;indice;valor": "201902;metro_linea_l;68224"
+    },
+    {
+        "periodo;indice;valor": "201902;metro_linea_1_buses;2028906"
+    },
+    {
+        "periodo;indice;valor": "201902;metro_linea_2_buses;330118"
+    },
+    {
+        "periodo;indice;valor": "201902;metro_cuenca_3;655442"
+    },
+    {
+        "periodo;indice;valor": "201902;metro_cuenca_6;1191929"
+    },
+    {
+        "periodo;indice;valor": "201902;metro_cuenca_7_integrados;432538"
+    },
+    {
+        "periodo;indice;valor": "201902;metro_cuenca_5_integrados;469413"
+    },
+    {
+        "periodo;indice;valor": "201902;metro_cuenca_9_integrados;140711"
+    },
+    {
+        "periodo;indice;valor": "201902;metro_tranvia;774314"
+    },
+    {
+        "periodo;indice;valor": "201903;metro_linea_h;66372"
+    },
+    {
+        "periodo;indice;valor": "201903;metro_linea_a;13932274"
+    },
+    {
+        "periodo;indice;valor": "201903;metro_linea_b;2349728"
+    },
+    {
+        "periodo;indice;valor": "201903;metro_linea_k;678132"
+    },
+    {
+        "periodo;indice;valor": "201903;metro_linea_j;435791"
+    },
+    {
+        "periodo;indice;valor": "201903;metro_linea_l;78614"
+    },
+    {
+        "periodo;indice;valor": "201903;metro_linea_1_buses;2213755"
+    },
+    {
+        "periodo;indice;valor": "201903;metro_linea_2_buses;361928"
+    },
+    {
+        "periodo;indice;valor": "201903;metro_cuenca_3;730587"
+    },
+    {
+        "periodo;indice;valor": "201903;metro_cuenca_6;1307247"
+    },
+    {
+        "periodo;indice;valor": "201903;metro_cuenca_7_integrados;475901"
+    },
+    {
+        "periodo;indice;valor": "201903;metro_cuenca_5_integrados;520615"
+    },
+    {
+        "periodo;indice;valor": "201903;metro_cuenca_9_integrados;153693"
+    },
+    {
+        "periodo;indice;valor": "201903;metro_tranvia;879642"
+    },
+    {
+        "periodo;indice;valor": "201904;metro_linea_h;61057"
+    },
+    {
+        "periodo;indice;valor": "201904;metro_linea_a;12871922"
+    },
+    {
+        "periodo;indice;valor": "201904;metro_linea_b;2141433"
+    },
+    {
+        "periodo;indice;valor": "201904;metro_linea_k;637730"
+    },
+    {
+        "periodo;indice;valor": "201904;metro_linea_j;317949"
+    },
+    {
+        "periodo;indice;valor": "201904;metro_linea_l;77241"
+    },
+    {
+        "periodo;indice;valor": "201904;metro_linea_1_buses;1995039"
+    },
+    {
+        "periodo;indice;valor": "201904;metro_linea_2_buses;332838"
+    },
+    {
+        "periodo;indice;valor": "201904;metro_cuenca_3;655953"
+    },
+    {
+        "periodo;indice;valor": "201904;metro_cuenca_6;1222669"
+    },
+    {
+        "periodo;indice;valor": "201904;metro_cuenca_7_integrados;440079"
+    },
+    {
+        "periodo;indice;valor": "201904;metro_cuenca_5_integrados;465206"
+    },
+    {
+        "periodo;indice;valor": "201904;metro_cuenca_9_integrados;138306"
+    },
+    {
+        "periodo;indice;valor": "201904;metro_tranvia;800858"
+    },
+    {
+        "periodo;indice;valor": "201905;metro_linea_h;67131"
+    },
+    {
+        "periodo;indice;valor": "201905;metro_linea_a;13980101"
+    },
+    {
+        "periodo;indice;valor": "201905;metro_linea_b;2313919"
+    },
+    {
+        "periodo;indice;valor": "201905;metro_linea_k;680494"
+    },
+    {
+        "periodo;indice;valor": "201905;metro_linea_j;424629"
+    },
+    {
+        "periodo;indice;valor": "201905;metro_linea_l;61040"
+    },
+    {
+        "periodo;indice;valor": "201905;metro_linea_1_buses;2174077"
+    },
+    {
+        "periodo;indice;valor": "201905;metro_linea_2_buses;356627"
+    },
+    {
+        "periodo;indice;valor": "201905;metro_cuenca_3;708986"
+    },
+    {
+        "periodo;indice;valor": "201905;metro_cuenca_6;1357964"
+    },
+    {
+        "periodo;indice;valor": "201905;metro_cuenca_7_integrados;489583"
+    },
+    {
+        "periodo;indice;valor": "201905;metro_cuenca_5_integrados;518730"
+    },
+    {
+        "periodo;indice;valor": "201905;metro_cuenca_9_integrados;153124"
+    },
+    {
+        "periodo;indice;valor": "201905;metro_tranvia;866239"
+    },
+    {
+        "periodo;indice;valor": "201906;metro_linea_h;57404"
+    },
+    {
+        "periodo;indice;valor": "201906;metro_linea_a;12881074"
+    },
+    {
+        "periodo;indice;valor": "201906;metro_linea_b;2042896"
+    },
+    {
+        "periodo;indice;valor": "201906;metro_linea_k;376251"
+    },
+    {
+        "periodo;indice;valor": "201906;metro_linea_j;407461"
+    },
+    {
+        "periodo;indice;valor": "201906;metro_linea_l;75495"
+    },
+    {
+        "periodo;indice;valor": "201906;metro_linea_1_buses;1915896"
+    },
+    {
+        "periodo;indice;valor": "201906;metro_linea_2_buses;316446"
+    },
+    {
+        "periodo;indice;valor": "201906;metro_cuenca_3;606484"
+    },
+    {
+        "periodo;indice;valor": "201906;metro_cuenca_6;1293695"
+    },
+    {
+        "periodo;indice;valor": "201906;metro_cuenca_7_integrados;438047"
+    },
+    {
+        "periodo;indice;valor": "201906;metro_cuenca_5_integrados;433531"
+    },
+    {
+        "periodo;indice;valor": "201906;metro_cuenca_9_integrados;130079"
+    },
+    {
+        "periodo;indice;valor": "201906;metro_tranvia;764567"
+    },
+    {
+        "periodo;indice;valor": "201907;metro_linea_h;67202"
+    },
+    {
+        "periodo;indice;valor": "201907;metro_linea_a;14007725"
+    },
+    {
+        "periodo;indice;valor": "201907;metro_linea_b;2268596"
+    },
+    {
+        "periodo;indice;valor": "201907;metro_linea_k;681326"
+    },
+    {
+        "periodo;indice;valor": "201907;metro_linea_j;433409"
+    },
+    {
+        "periodo;indice;valor": "201907;metro_linea_l;97641"
+    },
+    {
+        "periodo;indice;valor": "201907;metro_linea_1_buses;2105136"
+    },
+    {
+        "periodo;indice;valor": "201907;metro_linea_2_buses;343117"
+    },
+    {
+        "periodo;indice;valor": "201907;metro_cuenca_3;703539"
+    },
+    {
+        "periodo;indice;valor": "201907;metro_cuenca_6;1330303"
+    },
+    {
+        "periodo;indice;valor": "201907;metro_cuenca_7_integrados;478758"
+    },
+    {
+        "periodo;indice;valor": "201907;metro_cuenca_5_integrados;499542"
+    },
+    {
+        "periodo;indice;valor": "201907;metro_cuenca_9_integrados;149476"
+    },
+    {
+        "periodo;indice;valor": "201907;metro_tranvia;846734"
+    },
+    {
+        "periodo;indice;valor": "201908;metro_linea_h;68677"
+    },
+    {
+        "periodo;indice;valor": "201908;metro_linea_a;14460344"
+    },
+    {
+        "periodo;indice;valor": "201908;metro_linea_b;2447948"
+    },
+    {
+        "periodo;indice;valor": "201908;metro_linea_k;692899"
+    },
+    {
+        "periodo;indice;valor": "201908;metro_linea_j;450332"
+    },
+    {
+        "periodo;indice;valor": "201908;metro_linea_l;105345"
+    },
+    {
+        "periodo;indice;valor": "201908;metro_linea_1_buses;2216597"
+    },
+    {
+        "periodo;indice;valor": "201908;metro_linea_2_buses;353465"
+    },
+    {
+        "periodo;indice;valor": "201908;metro_cuenca_3;716443"
+    },
+    {
+        "periodo;indice;valor": "201908;metro_cuenca_6;1361811"
+    },
+    {
+        "periodo;indice;valor": "201908;metro_cuenca_7_integrados;489179"
+    },
+    {
+        "periodo;indice;valor": "201908;metro_cuenca_5_integrados;520970"
+    },
+    {
+        "periodo;indice;valor": "201908;metro_cuenca_9_integrados;159700"
+    },
+    {
+        "periodo;indice;valor": "201908;metro_tranvia;930999"
+    },
+    {
+        "periodo;indice;valor": "201909;metro_linea_h;67926"
+    },
+    {
+        "periodo;indice;valor": "201909;metro_linea_a;14121137"
+    },
+    {
+        "periodo;indice;valor": "201909;metro_linea_b;2333621"
+    },
+    {
+        "periodo;indice;valor": "201909;metro_linea_k;668885"
+    },
+    {
+        "periodo;indice;valor": "201909;metro_linea_j;432671"
+    },
+    {
+        "periodo;indice;valor": "201909;metro_linea_l;69477"
+    },
+    {
+        "periodo;indice;valor": "201909;metro_linea_1_buses;2159721"
+    },
+    {
+        "periodo;indice;valor": "201909;metro_linea_2_buses;334662"
+    },
+    {
+        "periodo;indice;valor": "201909;metro_cuenca_3;710590"
+    },
+    {
+        "periodo;indice;valor": "201909;metro_cuenca_6;1359263"
+    },
+    {
+        "periodo;indice;valor": "201909;metro_cuenca_7_integrados;487625"
+    },
+    {
+        "periodo;indice;valor": "201909;metro_cuenca_5_integrados;522780"
+    },
+    {
+        "periodo;indice;valor": "201909;metro_cuenca_9_integrados;155447"
+    },
+    {
+        "periodo;indice;valor": "201909;metro_tranvia;883643"
+    }
+]

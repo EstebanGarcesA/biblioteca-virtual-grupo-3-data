@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biblioteca Virtual - Panel Analítico</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.plot.ly/plotly-2.24.1.min.js"></script>
+</head>
+<body>
+
+    <header class="header">
+        <img src="logo.png" alt="Biblioteca Virtual" class="header-logo">
+        <div class="header-text">
+            <h1>Biblioteca Virtual</h1>
+            <p>Análisis de préstamos, catálogo y usuarios CESDE</p>
+        </div>
+    </header>
+
+    <main>
+        <p id="nota-muestra" class="nota-muestra"></p>
+
+        <section class="grid-kpis">
+            <div class="kpi-card kpi-cyan">
+                <h3>Total préstamos</h3>
+                <p id="kpi-prestamos">0</p>
+            </div>
+            <div class="kpi-card kpi-navy">
+                <h3>Libros en catálogo</h3>
+                <p id="kpi-libros">0</p>
+            </div>
+            <div class="kpi-card kpi-orange">
+                <h3>Usuarios registrados</h3>
+                <p id="kpi-usuarios">0</p>
+            </div>
+            <div class="kpi-card kpi-cyan">
+                <h3>Préstamos activos</h3>
+                <p id="kpi-activos">0</p>
+            </div>
+        </section>
+
+        <section class="controles">
+            <input type="text" id="buscador" placeholder="Buscar por libro, autor o usuario...">
+            <select id="filtro-categoria">
+                <option value="TODAS">Todas las categorías</option>
+            </select>
+            <select id="filtro-estado">
+                <option value="TODOS">Todos los estados</option>
+            </select>
+        </section>
+
+        <section class="grid-graficos">
+            <div class="grafico-contenedor" id="grafico-barras"></div>
+            <div class="grafico-contenedor" id="grafico-torta"></div>
+        </section>
+
+        <section class="tabla-contenedor">
+            <h2>Detalle de préstamos</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th id="th-libro">Libro</th>
+                        <th id="th-autor">Autor</th>
+                        <th id="th-categoria">Categoría</th>
+                        <th id="th-usuario">Usuario</th>
+                        <th id="th-fecha">Matrícula</th>
+                        <th id="th-paginas">Páginas</th>
+                        <th id="th-estado">Estado</th>
+                    </tr>
+                </thead>
+                <tbody id="cuerpo-tabla"></tbody>
+            </table>
+        </section>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>

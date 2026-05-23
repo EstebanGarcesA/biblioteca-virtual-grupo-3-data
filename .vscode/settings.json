@@ -1,6 +1,0 @@
-{
-    "python.defaultInterpreterPath": "C:\\Users\\gmontoya\\anaconda3\\python.exe",
-    "python.terminal.activateEnvInSelectedTerminal": true,
-    "terminal.integrated.defaultProfile.windows": "Git Bash",
-    "python.languageServer": "Pylance"
-}
